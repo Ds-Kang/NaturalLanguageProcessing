@@ -4,7 +4,6 @@ from collections import Counter
 import argparse
 
 
-
 def skipgram(centerWord, contextWord, inputMatrix, outputMatrix):
 ################################  Input  ################################
 # centerWord : Index of a centerword (type:int)                         #
@@ -12,7 +11,6 @@ def skipgram(centerWord, contextWord, inputMatrix, outputMatrix):
 # inputMatrix : Weight matrix of input (type:torch.tesnor(V,D))         #
 # outputMatrix : Weight matrix of output (type:torch.tesnor(V,D))       #
 #########################################################################
-torch.mm(outputMatrix.t(),inputMatrix[centerword])
 
 ###############################  Output  ################################
 # loss : Loss value (type:torch.tensor(1))                              #
@@ -23,7 +21,13 @@ torch.mm(outputMatrix.t(),inputMatrix[centerword])
     loss = None
     grad_in = None
     grad_out = None
-
+    scores=torch.mm(torch.unsqueeze(inputMatrix[centerWord],0),outputMatrix.t())
+    e=torch.exp(scores)
+    softmax=e/torch.sum(e, dim=1, keepdim=True)
+    loss=-torch.log(softmax[0][contextWord])
+    grad_in=torch.mm(outputMatrix.t(),e.t())
+    grad_out=torch.mm(inputMatrix.t(),e.t())
+    print(grad_out.size())
     return loss, grad_in, grad_out
 
 def CBOW(centerWord, contextWords, inputMatrix, outputMatrix):
@@ -44,9 +48,14 @@ def CBOW(centerWord, contextWords, inputMatrix, outputMatrix):
     grad_in = None
     grad_out = None
 
-    return loss, grad_in, grad_out
+    scores=torch.mm(torch.unsqueeze(inputMatrix[centerWord],0),outputMatrix.t())
+    e=torch.exp(scores)
+    softmax=e/torch.sum(e, dim=1, keepdim=True)
+    loss=-torch.log(softmax[contextWord])
+    grad_in=torch.mm(outputMatrix,e)
+    grad_out=torch.mm(inputMatrix,e.t())
 
-#emb,_ = word2vec_trainer(train_set, len(w2i), freqtable, mode=mode, dimension=64, epoch=1, learning_rate=0.05)
+    return loss, grad_in, grad_out
 
 
 def word2vec_trainer(train_seq, numwords, stats, mode="CBOW", dimension=100, learning_rate=0.025, epoch=3):
@@ -128,8 +137,7 @@ def main():
 	#Load and preprocess corpus
     print("loading...")
     if part=="part":
-        text = open('text8',mode='r').readlines()[0][:1000] #Load a part of corpus for debugging
-#        text = open('text8',mode='r').readlines()[0][:1000000] #Load a part of corpus for debugging
+        text = open('text8',mode='r').readlines()[0][:1000000] #Load a part of corpus for debugging
     elif part=="full":
         text = open('text8',mode='r').readlines()[0] #Load full corpus for submission
     else:
