@@ -21,13 +21,16 @@ def skipgram(centerWord, contextWord, inputMatrix, outputMatrix):
     loss = None
     grad_in = None
     grad_out = None
-    scores=torch.mm(torch.unsqueeze(inputMatrix[centerWord],0),outputMatrix.t())
-    e=torch.exp(scores)
+    score=torch.mm(torch.unsqueeze(inputMatrix[centerWord],0),outputMatrix.t())
+    e=torch.exp(score)
     softmax=e/torch.sum(e, dim=1, keepdim=True)
     loss=-torch.log(softmax[0][contextWord])
-    grad_in=torch.mm(outputMatrix.t(),e.t())
-    grad_out=torch.mm(inputMatrix.t(),e.t())
-    print(grad_out.size())
+    softmax[0][contextWord]-=1
+
+    grad_in=torch.mm(softmax,outputMatrix).t()
+    grad_out=torch.mm(softmax.t(),torch.unsqueeze(inputMatrix[centerWord],0))
+
+
     return loss, grad_in, grad_out
 
 def CBOW(centerWord, contextWords, inputMatrix, outputMatrix):
@@ -47,13 +50,14 @@ def CBOW(centerWord, contextWords, inputMatrix, outputMatrix):
     loss = None
     grad_in = None
     grad_out = None
-
-    scores=torch.mm(torch.unsqueeze(inputMatrix[centerWord],0),outputMatrix.t())
-    e=torch.exp(scores)
+    score=torch.mm(torch.mean(inputMatrix[contextWords],0,keepdim=True),outputMatrix.t())
+    e=torch.exp(score)
     softmax=e/torch.sum(e, dim=1, keepdim=True)
-    loss=-torch.log(softmax[contextWord])
-    grad_in=torch.mm(outputMatrix,e)
-    grad_out=torch.mm(inputMatrix,e.t())
+    loss=-torch.log(softmax[0][centerWord])
+    softmax[0][centerWord]-=1
+
+    grad_in=torch.mm(softmax,outputMatrix)
+    grad_out=torch.mm(softmax.t(),torch.mean(inputMatrix[contextWords],0,keepdim=True))
 
     return loss, grad_in, grad_out
 
@@ -69,9 +73,9 @@ def word2vec_trainer(train_seq, numwords, stats, mode="CBOW", dimension=100, lea
 
     print("# of training samples")
     if mode=="CBOW":
-    	print(len(train_seq))
+        print(len(train_seq))
     elif mode=="SG":
-    	print(len(train_seq)*len(train_seq[0][1]))
+        print(len(train_seq)*len(train_seq[0][1]))
     print()
 
     for _ in range(epoch):
@@ -90,21 +94,20 @@ def word2vec_trainer(train_seq, numwords, stats, mode="CBOW", dimension=100, lea
 
                 losses.append(L.item())
             elif mode=="SG":
-            	for contextInd in contextInds:
-	                L, G_in, G_out = skipgram(centerInd, contextInd, W_in, W_out)
-	                
-	                W_in[centerInd] -= learning_rate*G_in.squeeze()
-	                W_out -= learning_rate*G_out
-
-	                losses.append(L.item())
+                for contextInd in contextInds:
+                    L, G_in, G_out = skipgram(centerInd, contextInd, W_in, W_out)
+                    
+                    W_in[centerInd] -= learning_rate*G_in.squeeze()
+                    W_out -= learning_rate*G_out
+                    losses.append(L.item())
             else:
                 print("Unkwnown mode : "+mode)
                 exit()
 
             if i%10000==0:
-            	avg_loss=sum(losses)/len(losses)
-            	print("Loss : %f" %(avg_loss,))
-            	losses=[]
+                avg_loss=sum(losses)/len(losses)
+                print("Loss : %f" %(avg_loss,))
+                losses=[]
 
     return W_in, W_out
 
@@ -134,7 +137,7 @@ def main():
     mode = args.mode
     part = args.part
 
-	#Load and preprocess corpus
+    #Load and preprocess corpus
     print("loading...")
     if part=="part":
         text = open('text8',mode='r').readlines()[0][:1000000] #Load a part of corpus for debugging
@@ -199,6 +202,6 @@ def main():
     #Print similar words
     testwords = ["one", "are", "he", "have", "many", "first", "all", "world", "people", "after"]
     for tw in testwords:
-    	sim(tw,w2i,i2w,emb)
+        sim(tw,w2i,i2w,emb)
 
 main()
