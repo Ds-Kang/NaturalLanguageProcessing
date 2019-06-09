@@ -1,0 +1,100 @@
+
+===============================================
+The most similar words to "narrow-mindedness"
+mountainous: 0.571
+japanese: 0.548
+races: 0.533
+admitted: 0.533
+richard: 0.532
+===============================================
+
+
+===============================================
+The most similar words to "department"
+seconds: 1.000
+ayn: 0.606
+fuels: 0.605
+marsyas: 0.600
+gore: 0.592
+===============================================
+
+
+===============================================
+The most similar words to "campfires"
+commercial: 0.691
+radical: 0.666
+disappears: 0.655
+crisis: 0.654
+away: 0.652
+===============================================
+
+
+===============================================
+The most similar words to "knowing"
+along: 1.000
+bee: 0.708
+nearby: 0.687
+soccer: 0.639
+crown: 0.607
+===============================================
+
+
+===============================================
+The most similar words to "urbanize"
+comet: 0.622
+really: 0.430
+controversial: 0.414
+archaea: 0.406
+described: 0.406
+===============================================
+
+
+===============================================
+The most similar words to "imperfection"
+proceedings: 0.612
+broad: 0.593
+remaining: 0.572
+racial: 0.569
+literate: 0.563
+===============================================
+
+
+===============================================
+The most similar words to "principality"
+leaving: 0.781
+benefit: 0.691
+internal: 0.685
+ : 0.678
+similarly: 0.613
+===============================================
+
+
+===============================================
+The most similar words to "abnormal"
+covers: 0.734
+radical: 0.622
+market: 0.620
+colonial: 0.617
+repetitive: 0.617
+===============================================
+
+
+===============================================
+The most similar words to "secondary"
+islands: 0.786
+carry: 0.762
+public: 0.612
+typically: 0.611
+august: 0.605
+===============================================
+
+
+===============================================
+The most similar words to "ungraceful"
+airlines: 0.405
+happiness: 0.405
+require: 0.398
+apparently: 0.393
+walls: 0.393
+===============================================
+

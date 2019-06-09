@@ -1,0 +1,8954 @@
+
+===============================================
+The most similar words to "girl-boy+brother"
+Answer is: sister
+girl:0.848
+brother:0.815
+anarchy:0.705
+grant:0.698
+images:0.697
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+father"
+Answer is: mother
+father:0.836
+girl:0.817
+anarchist:0.707
+lack:0.706
+abu:0.705
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+he"
+Answer is: she
+he:0.867
+girl:0.731
+autistic:0.694
+anarchists:0.693
+anarchist:0.680
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+his"
+Answer is: her
+his:0.859
+girl:0.747
+him:0.656
+anarchists:0.650
+left:0.646
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+husband"
+Answer is: wife
+girl:0.835
+husband:0.816
+internet:0.703
+images:0.701
+think:0.695
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+king"
+Answer is: queen
+girl:0.847
+king:0.838
+run:0.722
+internet:0.716
+stereotyped:0.715
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+man"
+Answer is: woman
+man:0.849
+girl:0.828
+anarchist:0.753
+anarchism:0.746
+achilles:0.745
+===============================================
+
+
+===============================================
+The most similar words to "girl-boy+son"
+Answer is: daughter
+son:0.842
+girl:0.825
+left:0.729
+anarchy:0.728
+anarchist:0.727
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+father"
+Answer is: mother
+father:0.834
+sister:0.831
+disorders:0.726
+cnt:0.720
+functioning:0.718
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+he"
+Answer is: she
+he:0.873
+sister:0.737
+produced:0.691
+him:0.674
+letter:0.672
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+his"
+Answer is: her
+his:0.855
+sister:0.737
+never:0.678
+him:0.673
+almost:0.667
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+husband"
+Answer is: wife
+husband:0.837
+sister:0.827
+johnson:0.701
+core:0.686
+stereotyped:0.684
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+king"
+Answer is: queen
+king:0.843
+sister:0.832
+johnson:0.737
+stereotyped:0.736
+republic:0.731
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+man"
+Answer is: woman
+man:0.849
+sister:0.812
+dhabi:0.752
+anarcho:0.747
+letter:0.746
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+son"
+Answer is: daughter
+son:0.840
+sister:0.835
+dhabi:0.759
+disorders:0.746
+functioning:0.745
+===============================================
+
+
+===============================================
+The most similar words to "sister-brother+boy"
+Answer is: girl
+sister:0.827
+boy:0.816
+statistics:0.714
+team:0.707
+lover:0.701
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+he"
+Answer is: she
+he:0.869
+mother:0.792
+anarchists:0.691
+anarcho:0.690
+disorder:0.689
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+his"
+Answer is: her
+his:0.849
+mother:0.795
+disorder:0.693
+never:0.684
+david:0.683
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+husband"
+Answer is: wife
+husband:0.824
+mother:0.818
+freed:0.712
+solution:0.706
+et:0.706
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+king"
+Answer is: queen
+king:0.843
+mother:0.832
+freed:0.743
+et:0.738
+august:0.738
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+man"
+Answer is: woman
+mother:0.861
+man:0.848
+anarcho:0.775
+syndrome:0.757
+proudhon:0.755
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+son"
+Answer is: daughter
+mother:0.850
+son:0.845
+anarcho:0.753
+disorder:0.750
+adults:0.739
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+boy"
+Answer is: girl
+boy:0.825
+mother:0.795
+offer:0.699
+roughly:0.696
+statistics:0.689
+===============================================
+
+
+===============================================
+The most similar words to "mother-father+brother"
+Answer is: sister
+mother:0.831
+brother:0.817
+solution:0.722
+selection:0.720
+writers:0.715
+===============================================
+
+
+===============================================
+The most similar words to "she-he+his"
+Answer is: her
+his:0.810
+she:0.777
+her:0.648
+systems:0.643
+amongst:0.641
+===============================================
+
+
+===============================================
+The most similar words to "she-he+husband"
+Answer is: wife
+husband:0.769
+she:0.695
+search:0.674
+zayed:0.672
+step:0.671
+===============================================
+
+
+===============================================
+The most similar words to "she-he+king"
+Answer is: queen
+king:0.790
+she:0.732
+features:0.702
+repetitive:0.700
+liberty:0.700
+===============================================
+
+
+===============================================
+The most similar words to "she-he+man"
+Answer is: woman
+man:0.812
+she:0.769
+spectrum:0.721
+anarcho:0.710
+anarchism:0.707
+===============================================
+
+
+===============================================
+The most similar words to "she-he+son"
+Answer is: daughter
+son:0.797
+she:0.747
+spectrum:0.716
+anarcho:0.706
+systems:0.706
+===============================================
+
+
+===============================================
+The most similar words to "she-he+boy"
+Answer is: girl
+boy:0.771
+she:0.676
+amongst:0.665
+philosophies:0.663
+chain:0.657
+===============================================
+
+
+===============================================
+The most similar words to "she-he+brother"
+Answer is: sister
+brother:0.768
+she:0.703
+liberty:0.678
+trained:0.673
+oscars:0.672
+===============================================
+
+
+===============================================
+The most similar words to "she-he+father"
+Answer is: mother
+father:0.789
+she:0.760
+against:0.695
+actual:0.687
+spectrum:0.685
+===============================================
+
+
+===============================================
+The most similar words to "her-his+husband"
+Answer is: wife
+husband:0.796
+her:0.710
+treatment:0.676
+postal:0.674
+surface:0.673
+===============================================
+
+
+===============================================
+The most similar words to "her-his+king"
+Answer is: queen
+king:0.818
+her:0.757
+anarcho:0.713
+proudhon:0.712
+disorders:0.711
+===============================================
+
+
+===============================================
+The most similar words to "her-his+man"
+Answer is: woman
+man:0.827
+her:0.787
+anarchism:0.750
+anarchist:0.748
+autism:0.742
+===============================================
+
+
+===============================================
+The most similar words to "her-his+son"
+Answer is: daughter
+son:0.819
+her:0.776
+dhabi:0.731
+anarcho:0.730
+level:0.725
+===============================================
+
+
+===============================================
+The most similar words to "her-his+boy"
+Answer is: girl
+boy:0.794
+her:0.707
+ayn:0.670
+emirates:0.670
+mutual:0.667
+===============================================
+
+
+===============================================
+The most similar words to "her-his+brother"
+Answer is: sister
+brother:0.780
+her:0.728
+emirates:0.706
+proudhon:0.700
+diagnosis:0.698
+===============================================
+
+
+===============================================
+The most similar words to "her-his+father"
+Answer is: mother
+father:0.802
+her:0.791
+against:0.732
+disorders:0.725
+described:0.720
+===============================================
+
+
+===============================================
+The most similar words to "her-his+he"
+Answer is: she
+he:0.832
+her:0.783
+life:0.720
+autistic:0.715
+autism:0.714
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+king"
+Answer is: queen
+king:0.842
+wife:0.839
+acts:0.738
+disorders:0.736
+actions:0.730
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+man"
+Answer is: woman
+man:0.857
+wife:0.817
+anarchist:0.752
+group:0.739
+anarchists:0.739
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+son"
+Answer is: daughter
+son:0.852
+wife:0.823
+adults:0.737
+disorders:0.729
+asperger:0.727
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+boy"
+Answer is: girl
+wife:0.820
+boy:0.815
+speeches:0.695
+temple:0.694
+liberty:0.691
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+brother"
+Answer is: sister
+brother:0.824
+wife:0.820
+benefit:0.702
+liberty:0.701
+psychological:0.701
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+father"
+Answer is: mother
+father:0.834
+wife:0.819
+disorders:0.739
+asperger:0.731
+albedo:0.729
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+he"
+Answer is: she
+he:0.871
+wife:0.734
+anarchists:0.697
+autistic:0.693
+she:0.687
+===============================================
+
+
+===============================================
+The most similar words to "wife-husband+his"
+Answer is: her
+his:0.864
+wife:0.733
+she:0.659
+adults:0.659
+albedo:0.653
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+man"
+Answer is: woman
+man:0.823
+queen:0.815
+group:0.725
+behavior:0.718
+bakunin:0.708
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+son"
+Answer is: daughter
+queen:0.822
+son:0.813
+bakunin:0.714
+disorder:0.712
+behavior:0.709
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+boy"
+Answer is: girl
+queen:0.793
+boy:0.788
+postal:0.664
+mankind:0.658
+yukon:0.657
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+brother"
+Answer is: sister
+queen:0.801
+brother:0.791
+user:0.681
+content:0.675
+special:0.674
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+father"
+Answer is: mother
+father:0.812
+queen:0.801
+perspective:0.673
+postal:0.673
+behavior:0.671
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+he"
+Answer is: she
+he:0.851
+queen:0.728
+it:0.680
+she:0.662
+but:0.656
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+his"
+Answer is: her
+his:0.835
+queen:0.722
+she:0.645
+additional:0.626
+her:0.621
+===============================================
+
+
+===============================================
+The most similar words to "queen-king+husband"
+Answer is: wife
+queen:0.797
+husband:0.788
+postal:0.691
+mankind:0.690
+content:0.686
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+son"
+Answer is: daughter
+woman:0.825
+son:0.805
+stamps:0.733
+county:0.727
+commonwealth:0.724
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+boy"
+Answer is: girl
+boy:0.792
+woman:0.757
+fis:0.668
+aerial:0.662
+flight:0.658
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+brother"
+Answer is: sister
+brother:0.791
+woman:0.772
+spot:0.682
+discussed:0.679
+managed:0.675
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+father"
+Answer is: mother
+woman:0.803
+father:0.791
+create:0.710
+pervasive:0.706
+sold:0.705
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+he"
+Answer is: she
+he:0.847
+woman:0.734
+agassi:0.634
+fascism:0.634
+beat:0.631
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+his"
+Answer is: her
+his:0.826
+woman:0.723
+attempt:0.636
+meeting:0.635
+columbia:0.635
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+husband"
+Answer is: wife
+husband:0.798
+woman:0.759
+substantial:0.679
+fis:0.677
+rarely:0.676
+===============================================
+
+
+===============================================
+The most similar words to "woman-man+king"
+Answer is: queen
+king:0.816
+woman:0.809
+hidden:0.695
+beat:0.694
+writers:0.693
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+boy"
+Answer is: girl
+boy:0.784
+daughter:0.760
+berbers:0.657
+am:0.647
+automobile:0.646
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+brother"
+Answer is: sister
+daughter:0.800
+brother:0.777
+spot:0.687
+commentary:0.678
+snowball:0.676
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+father"
+Answer is: mother
+daughter:0.798
+father:0.790
+actors:0.689
+proved:0.685
+reached:0.684
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+he"
+Answer is: she
+he:0.841
+daughter:0.724
+she:0.645
+it:0.638
+role:0.634
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+his"
+Answer is: her
+his:0.825
+daughter:0.730
+federer:0.627
+she:0.624
+stadler:0.623
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+husband"
+Answer is: wife
+husband:0.789
+daughter:0.768
+fast:0.679
+blue:0.664
+clay:0.661
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+king"
+Answer is: queen
+daughter:0.812
+king:0.799
+federer:0.718
+freed:0.711
+alien:0.709
+===============================================
+
+
+===============================================
+The most similar words to "daughter-son+man"
+Answer is: woman
+daughter:0.827
+man:0.805
+federer:0.734
+alien:0.715
+anarcho:0.715
+===============================================
+
+
+===============================================
+The most similar words to "apparently-apparent+complete"
+Answer is: completely
+complete:0.844
+apparently:0.814
+feminist:0.698
+branched:0.698
+debate:0.693
+===============================================
+
+
+===============================================
+The most similar words to "apparently-apparent+most"
+Answer is: mostly
+most:0.863
+apparently:0.782
+hector:0.697
+feminist:0.695
+disorders:0.689
+===============================================
+
+
+===============================================
+The most similar words to "apparently-apparent+possible"
+Answer is: possibly
+possible:0.851
+apparently:0.808
+authoritarian:0.710
+feminist:0.709
+disorders:0.708
+===============================================
+
+
+===============================================
+The most similar words to "apparently-apparent+rare"
+Answer is: rarely
+rare:0.805
+apparently:0.797
+tar:0.649
+charges:0.648
+beliefs:0.648
+===============================================
+
+
+===============================================
+The most similar words to "apparently-apparent+slow"
+Answer is: slowly
+slow:0.818
+apparently:0.799
+sociology:0.682
+variants:0.676
+anarcha:0.675
+===============================================
+
+
+===============================================
+The most similar words to "apparently-apparent+typical"
+Answer is: typically
+typical:0.834
+apparently:0.813
+authoritarian:0.720
+hector:0.715
+role:0.713
+===============================================
+
+
+===============================================
+The most similar words to "completely-complete+most"
+Answer is: mostly
+most:0.838
+completely:0.813
+political:0.715
+form:0.708
+anarcho:0.705
+===============================================
+
+
+===============================================
+The most similar words to "completely-complete+possible"
+Answer is: possibly
+possible:0.825
+completely:0.824
+disorder:0.725
+disorders:0.723
+political:0.722
+===============================================
+
+
+===============================================
+The most similar words to "completely-complete+rare"
+Answer is: rarely
+completely:0.806
+rare:0.768
+mexico:0.678
+radar:0.675
+coverage:0.674
+===============================================
+
+
+===============================================
+The most similar words to "completely-complete+slow"
+Answer is: slowly
+completely:0.811
+slow:0.806
+agreement:0.666
+grow:0.662
+computer:0.658
+===============================================
+
+
+===============================================
+The most similar words to "completely-complete+typical"
+Answer is: typically
+completely:0.824
+typical:0.813
+pervasive:0.709
+disorders:0.709
+metaphysics:0.706
+===============================================
+
+
+===============================================
+The most similar words to "completely-complete+apparent"
+Answer is: apparently
+completely:0.827
+apparent:0.805
+claiming:0.706
+utopian:0.702
+nearly:0.697
+===============================================
+
+
+===============================================
+The most similar words to "mostly-most+possible"
+Answer is: possibly
+possible:0.809
+mostly:0.802
+pervasive:0.691
+autistics:0.686
+cases:0.685
+===============================================
+
+
+===============================================
+The most similar words to "mostly-most+rare"
+Answer is: rarely
+rare:0.762
+mostly:0.736
+biological:0.647
+judicial:0.635
+ontario:0.634
+===============================================
+
+
+===============================================
+The most similar words to "mostly-most+slow"
+Answer is: slowly
+slow:0.786
+mostly:0.729
+vegetables:0.650
+danneskjold:0.645
+biological:0.643
+===============================================
+
+
+===============================================
+The most similar words to "mostly-most+typical"
+Answer is: typically
+typical:0.795
+mostly:0.782
+vegetables:0.691
+pervasive:0.691
+survived:0.690
+===============================================
+
+
+===============================================
+The most similar words to "mostly-most+apparent"
+Answer is: apparently
+apparent:0.791
+mostly:0.760
+landscape:0.674
+armies:0.671
+beautiful:0.671
+===============================================
+
+
+===============================================
+The most similar words to "mostly-most+complete"
+Answer is: completely
+complete:0.803
+mostly:0.776
+armies:0.694
+vegetables:0.681
+county:0.680
+===============================================
+
+
+===============================================
+The most similar words to "possibly-possible+rare"
+Answer is: rarely
+rare:0.768
+possibly:0.755
+chadic:0.639
+investigation:0.638
+else:0.635
+===============================================
+
+
+===============================================
+The most similar words to "possibly-possible+slow"
+Answer is: slowly
+slow:0.788
+possibly:0.761
+ohio:0.661
+providing:0.651
+commerce:0.650
+===============================================
+
+
+===============================================
+The most similar words to "possibly-possible+typical"
+Answer is: typically
+possibly:0.815
+typical:0.804
+record:0.687
+behaviors:0.680
+investigation:0.680
+===============================================
+
+
+===============================================
+The most similar words to "possibly-possible+apparent"
+Answer is: apparently
+apparent:0.798
+possibly:0.789
+virginia:0.673
+analytics:0.672
+inability:0.672
+===============================================
+
+
+===============================================
+The most similar words to "possibly-possible+complete"
+Answer is: completely
+complete:0.814
+possibly:0.794
+investigation:0.681
+healing:0.680
+samoan:0.676
+===============================================
+
+
+===============================================
+The most similar words to "possibly-possible+most"
+Answer is: mostly
+most:0.820
+possibly:0.787
+use:0.698
+regions:0.687
+shall:0.685
+===============================================
+
+
+===============================================
+The most similar words to "rarely-rare+slow"
+Answer is: slowly
+slow:0.845
+rarely:0.809
+travel:0.701
+coming:0.701
+allow:0.698
+===============================================
+
+
+===============================================
+The most similar words to "rarely-rare+typical"
+Answer is: typically
+typical:0.862
+rarely:0.830
+abu:0.728
+soul:0.726
+pervasive:0.725
+===============================================
+
+
+===============================================
+The most similar words to "rarely-rare+apparent"
+Answer is: apparently
+apparent:0.846
+rarely:0.835
+save:0.737
+recently:0.734
+repetitive:0.731
+===============================================
+
+
+===============================================
+The most similar words to "rarely-rare+complete"
+Answer is: completely
+complete:0.856
+rarely:0.833
+functioning:0.755
+allow:0.742
+events:0.737
+===============================================
+
+
+===============================================
+The most similar words to "rarely-rare+most"
+Answer is: mostly
+most:0.876
+rarely:0.803
+form:0.745
+autism:0.739
+abu:0.739
+===============================================
+
+
+===============================================
+The most similar words to "rarely-rare+possible"
+Answer is: possibly
+possible:0.866
+rarely:0.820
+abu:0.771
+anarchists:0.762
+anarchist:0.755
+===============================================
+
+
+===============================================
+The most similar words to "slowly-slow+typical"
+Answer is: typically
+typical:0.832
+slowly:0.822
+fascist:0.724
+dhabi:0.723
+industrial:0.719
+===============================================
+
+
+===============================================
+The most similar words to "slowly-slow+apparent"
+Answer is: apparently
+apparent:0.821
+slowly:0.817
+response:0.713
+mental:0.713
+universities:0.712
+===============================================
+
+
+===============================================
+The most similar words to "slowly-slow+complete"
+Answer is: completely
+complete:0.842
+slowly:0.810
+fascist:0.709
+feminist:0.705
+organizations:0.703
+===============================================
+
+
+===============================================
+The most similar words to "slowly-slow+most"
+Answer is: mostly
+most:0.863
+slowly:0.777
+form:0.698
+feminist:0.698
+dhabi:0.696
+===============================================
+
+
+===============================================
+The most similar words to "slowly-slow+possible"
+Answer is: possibly
+possible:0.847
+slowly:0.802
+dhabi:0.732
+anarchy:0.726
+feminist:0.721
+===============================================
+
+
+===============================================
+The most similar words to "slowly-slow+rare"
+Answer is: rarely
+rare:0.813
+slowly:0.792
+lighter:0.657
+nathaniel:0.649
+elements:0.648
+===============================================
+
+
+===============================================
+The most similar words to "typically-typical+apparent"
+Answer is: apparently
+apparent:0.847
+typically:0.829
+grant:0.717
+decision:0.712
+standard:0.709
+===============================================
+
+
+===============================================
+The most similar words to "typically-typical+complete"
+Answer is: completely
+complete:0.859
+typically:0.823
+functioning:0.715
+nathaniel:0.710
+spectrum:0.708
+===============================================
+
+
+===============================================
+The most similar words to "typically-typical+most"
+Answer is: mostly
+most:0.873
+typically:0.816
+achilles:0.729
+use:0.725
+anarcho:0.725
+===============================================
+
+
+===============================================
+The most similar words to "typically-typical+possible"
+Answer is: possibly
+possible:0.862
+typically:0.843
+due:0.749
+said:0.749
+constitution:0.743
+===============================================
+
+
+===============================================
+The most similar words to "typically-typical+rare"
+Answer is: rarely
+rare:0.820
+typically:0.788
+nathaniel:0.685
+farming:0.682
+grant:0.682
+===============================================
+
+
+===============================================
+The most similar words to "typically-typical+slow"
+Answer is: slowly
+slow:0.834
+typically:0.813
+grant:0.711
+boiling:0.704
+clinton:0.699
+===============================================
+
+
+===============================================
+The most similar words to "unknown-known+possible"
+Answer is: impossible
+unknown:0.800
+possible:0.747
+everything:0.673
+publications:0.666
+bracelet:0.664
+===============================================
+
+
+===============================================
+The most similar words to "impossible-possible+known"
+Answer is: unknown
+known:0.815
+impossible:0.797
+feminist:0.683
+criticized:0.679
+treatment:0.673
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+good"
+Answer is: better
+good:0.864
+easier:0.820
+anarcho:0.769
+anarchists:0.764
+anarchism:0.759
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+great"
+Answer is: greater
+great:0.869
+easier:0.818
+anarchist:0.780
+anarchism:0.780
+anarchists:0.775
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+hard"
+Answer is: harder
+hard:0.854
+easier:0.823
+noted:0.726
+anarcho:0.724
+save:0.722
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+high"
+Answer is: higher
+high:0.864
+easier:0.831
+anarchism:0.768
+anarchists:0.762
+society:0.756
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+large"
+Answer is: larger
+large:0.868
+easier:0.828
+anarcho:0.743
+disorder:0.742
+save:0.738
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+long"
+Answer is: longer
+long:0.868
+easier:0.834
+disorder:0.766
+anarchists:0.766
+without:0.765
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+low"
+Answer is: lower
+low:0.855
+easier:0.843
+anarcho:0.749
+pervasive:0.747
+value:0.747
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+old"
+Answer is: older
+old:0.864
+easier:0.834
+grant:0.769
+anarcho:0.767
+anarchism:0.766
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+short"
+Answer is: shorter
+short:0.861
+easier:0.815
+run:0.759
+anarcho:0.757
+dhabi:0.753
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+small"
+Answer is: smaller
+small:0.851
+easier:0.834
+anarcho:0.781
+disorder:0.779
+opposed:0.773
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+wide"
+Answer is: wider
+wide:0.847
+easier:0.843
+altruist:0.732
+cure:0.732
+thetis:0.730
+===============================================
+
+
+===============================================
+The most similar words to "easier-easy+young"
+Answer is: younger
+young:0.857
+easier:0.841
+pervasive:0.755
+thetis:0.753
+cure:0.750
+===============================================
+
+
+===============================================
+The most similar words to "better-good+great"
+Answer is: greater
+better:0.850
+great:0.846
+albedo:0.737
+disorders:0.735
+anarchist:0.735
+===============================================
+
+
+===============================================
+The most similar words to "better-good+hard"
+Answer is: harder
+hard:0.831
+better:0.808
+metal:0.696
+asperger:0.693
+iraq:0.688
+===============================================
+
+
+===============================================
+The most similar words to "better-good+high"
+Answer is: higher
+better:0.845
+high:0.836
+asperger:0.740
+functioning:0.735
+disorders:0.734
+===============================================
+
+
+===============================================
+The most similar words to "better-good+large"
+Answer is: larger
+large:0.839
+better:0.839
+albedo:0.731
+origin:0.721
+obligation:0.720
+===============================================
+
+
+===============================================
+The most similar words to "better-good+long"
+Answer is: longer
+better:0.859
+long:0.847
+asperger:0.736
+disorders:0.733
+albedo:0.731
+===============================================
+
+
+===============================================
+The most similar words to "better-good+low"
+Answer is: lower
+low:0.835
+better:0.829
+revenue:0.722
+asperger:0.721
+pervasive:0.717
+===============================================
+
+
+===============================================
+The most similar words to "better-good+old"
+Answer is: older
+better:0.853
+old:0.843
+asperger:0.741
+disorders:0.731
+grant:0.731
+===============================================
+
+
+===============================================
+The most similar words to "better-good+short"
+Answer is: shorter
+short:0.839
+better:0.838
+asperger:0.734
+run:0.724
+disorders:0.724
+===============================================
+
+
+===============================================
+The most similar words to "better-good+small"
+Answer is: smaller
+better:0.845
+small:0.835
+asperger:0.742
+feminist:0.739
+metal:0.736
+===============================================
+
+
+===============================================
+The most similar words to "better-good+wide"
+Answer is: wider
+wide:0.817
+better:0.814
+titles:0.723
+win:0.717
+again:0.712
+===============================================
+
+
+===============================================
+The most similar words to "better-good+young"
+Answer is: younger
+better:0.837
+young:0.831
+asperger:0.742
+pervasive:0.739
+cnt:0.731
+===============================================
+
+
+===============================================
+The most similar words to "better-good+easy"
+Answer is: easier
+easy:0.802
+better:0.770
+vietnam:0.656
+revenue:0.655
+characteristic:0.654
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+hard"
+Answer is: harder
+hard:0.808
+greater:0.794
+sand:0.678
+horse:0.677
+fis:0.676
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+high"
+Answer is: higher
+greater:0.835
+high:0.823
+statistical:0.714
+unknown:0.699
+ancestry:0.696
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+large"
+Answer is: larger
+large:0.832
+greater:0.816
+variety:0.699
+symbolic:0.693
+statistical:0.691
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+long"
+Answer is: longer
+greater:0.835
+long:0.827
+statistical:0.728
+understanding:0.719
+pervasive:0.711
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+low"
+Answer is: lower
+low:0.818
+greater:0.814
+inquiry:0.704
+statistical:0.702
+sand:0.700
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+old"
+Answer is: older
+greater:0.834
+old:0.816
+statistical:0.745
+pervasive:0.729
+fascist:0.728
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+short"
+Answer is: shorter
+short:0.817
+greater:0.810
+statistical:0.711
+austrian:0.711
+wesley:0.710
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+small"
+Answer is: smaller
+greater:0.822
+small:0.821
+tai:0.723
+wesley:0.719
+viewed:0.710
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+wide"
+Answer is: wider
+wide:0.817
+greater:0.772
+sand:0.680
+weapons:0.673
+wesley:0.672
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+young"
+Answer is: younger
+greater:0.826
+young:0.817
+pervasive:0.710
+sand:0.710
+wesley:0.706
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+easy"
+Answer is: easier
+easy:0.776
+greater:0.732
+fis:0.658
+aimed:0.657
+aeronautical:0.654
+===============================================
+
+
+===============================================
+The most similar words to "greater-great+good"
+Answer is: better
+greater:0.830
+good:0.826
+ancestry:0.710
+statistical:0.707
+bringing:0.699
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+high"
+Answer is: higher
+harder:0.814
+high:0.812
+developmental:0.720
+alkane:0.706
+disorder:0.704
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+large"
+Answer is: larger
+large:0.824
+harder:0.807
+individualist:0.692
+nearly:0.692
+willing:0.691
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+long"
+Answer is: longer
+long:0.825
+harder:0.818
+disorder:0.709
+disorders:0.702
+alkane:0.702
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+low"
+Answer is: lower
+harder:0.821
+low:0.806
+repetitive:0.713
+adults:0.708
+individualist:0.699
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+old"
+Answer is: older
+harder:0.823
+old:0.820
+athens:0.708
+individualist:0.707
+disorder:0.706
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+short"
+Answer is: shorter
+short:0.823
+harder:0.794
+lowercase:0.684
+athens:0.682
+austrian:0.681
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+small"
+Answer is: smaller
+harder:0.831
+small:0.818
+symptoms:0.702
+alkane:0.701
+athens:0.698
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+wide"
+Answer is: wider
+harder:0.816
+wide:0.809
+web:0.675
+petroleum:0.670
+anthropological:0.666
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+young"
+Answer is: younger
+harder:0.830
+young:0.808
+adults:0.713
+levels:0.709
+sound:0.702
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+easy"
+Answer is: easier
+easy:0.781
+harder:0.768
+alkane:0.634
+abaci:0.627
+zealand:0.624
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+good"
+Answer is: better
+good:0.822
+harder:0.802
+metaphysics:0.707
+receive:0.707
+sensory:0.697
+===============================================
+
+
+===============================================
+The most similar words to "harder-hard+great"
+Answer is: greater
+great:0.827
+harder:0.820
+abu:0.701
+disorder:0.698
+albedo:0.698
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+large"
+Answer is: larger
+large:0.867
+higher:0.839
+difficulties:0.732
+autistics:0.731
+user:0.729
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+long"
+Answer is: longer
+long:0.869
+higher:0.856
+disorder:0.746
+hector:0.744
+autistics:0.744
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+low"
+Answer is: lower
+low:0.857
+higher:0.838
+autistics:0.749
+intellectual:0.743
+pervasive:0.740
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+old"
+Answer is: older
+old:0.859
+higher:0.858
+autistics:0.768
+disorder:0.759
+proudhon:0.758
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+short"
+Answer is: shorter
+short:0.865
+higher:0.827
+austrian:0.758
+autistics:0.743
+amount:0.742
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+small"
+Answer is: smaller
+small:0.866
+higher:0.846
+syndicalism:0.741
+difficulties:0.739
+autistics:0.735
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+wide"
+Answer is: wider
+wide:0.851
+higher:0.822
+anthropological:0.734
+user:0.724
+funds:0.722
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+young"
+Answer is: younger
+young:0.853
+higher:0.846
+amount:0.771
+autistics:0.770
+pervasive:0.762
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+easy"
+Answer is: easier
+easy:0.824
+higher:0.784
+lists:0.703
+machinery:0.698
+longer:0.693
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+good"
+Answer is: better
+good:0.863
+higher:0.853
+autistics:0.764
+workers:0.761
+amount:0.751
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+great"
+Answer is: greater
+great:0.864
+higher:0.855
+autistics:0.765
+albedo:0.754
+disorder:0.754
+===============================================
+
+
+===============================================
+The most similar words to "higher-high+hard"
+Answer is: harder
+hard:0.850
+higher:0.829
+autistics:0.727
+uses:0.724
+syndicalism:0.721
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+long"
+Answer is: longer
+larger:0.827
+long:0.795
+diagnosis:0.711
+interaction:0.703
+disorders:0.700
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+low"
+Answer is: lower
+larger:0.796
+low:0.792
+awarded:0.680
+diagnosis:0.678
+wants:0.675
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+old"
+Answer is: older
+larger:0.806
+old:0.792
+diagnosis:0.718
+branches:0.708
+norte:0.704
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+short"
+Answer is: shorter
+larger:0.802
+short:0.796
+awarded:0.704
+northern:0.694
+mode:0.685
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+small"
+Answer is: smaller
+larger:0.814
+small:0.788
+diagnosis:0.705
+awarded:0.703
+learning:0.700
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+wide"
+Answer is: wider
+larger:0.796
+wide:0.773
+awarded:0.683
+executive:0.677
+statement:0.675
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+young"
+Answer is: younger
+larger:0.807
+young:0.789
+awarded:0.703
+diagnosis:0.693
+norte:0.689
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+easy"
+Answer is: easier
+larger:0.746
+easy:0.744
+awarded:0.638
+bound:0.625
+hypothesis:0.624
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+good"
+Answer is: better
+larger:0.826
+good:0.795
+diagnosis:0.699
+proclamation:0.695
+learning:0.690
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+great"
+Answer is: greater
+larger:0.814
+great:0.800
+diagnosis:0.702
+northern:0.694
+leo:0.692
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+hard"
+Answer is: harder
+larger:0.784
+hard:0.772
+awarded:0.671
+judgment:0.667
+philip:0.665
+===============================================
+
+
+===============================================
+The most similar words to "larger-large+high"
+Answer is: higher
+larger:0.805
+high:0.786
+diagnosis:0.705
+went:0.695
+functioning:0.694
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+low"
+Answer is: lower
+low:0.808
+longer:0.805
+parliament:0.701
+anarchy:0.699
+peikoff:0.697
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+old"
+Answer is: older
+old:0.820
+longer:0.817
+anarchy:0.709
+sebastian:0.706
+grant:0.702
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+short"
+Answer is: shorter
+short:0.821
+longer:0.781
+k:0.695
+danneskj:0.694
+singles:0.693
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+small"
+Answer is: smaller
+longer:0.833
+small:0.815
+wesley:0.709
+continent:0.706
+straight:0.705
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+wide"
+Answer is: wider
+wide:0.805
+longer:0.770
+automobile:0.682
+fertile:0.674
+peikoff:0.673
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+young"
+Answer is: younger
+young:0.809
+longer:0.807
+scientists:0.708
+seward:0.705
+occupied:0.703
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+easy"
+Answer is: easier
+easy:0.784
+longer:0.748
+indictment:0.649
+peikoff:0.632
+aeronautical:0.630
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+good"
+Answer is: better
+longer:0.821
+good:0.816
+autistics:0.714
+anarchy:0.709
+danneskj:0.705
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+great"
+Answer is: greater
+great:0.815
+longer:0.815
+anarchy:0.726
+speeches:0.722
+autistics:0.721
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+hard"
+Answer is: harder
+hard:0.798
+longer:0.780
+certainly:0.697
+intelligence:0.681
+seward:0.679
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+high"
+Answer is: higher
+high:0.808
+longer:0.806
+cannot:0.713
+save:0.711
+postal:0.708
+===============================================
+
+
+===============================================
+The most similar words to "longer-long+large"
+Answer is: larger
+large:0.821
+longer:0.816
+automobile:0.702
+variety:0.699
+save:0.693
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+old"
+Answer is: older
+old:0.860
+lower:0.856
+anarchist:0.744
+abu:0.742
+spectrum:0.741
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+short"
+Answer is: shorter
+short:0.851
+lower:0.842
+anarcho:0.740
+spectrum:0.735
+abu:0.733
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+small"
+Answer is: smaller
+lower:0.859
+small:0.846
+abu:0.754
+anarcho:0.750
+disorder:0.749
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+wide"
+Answer is: wider
+wide:0.840
+lower:0.834
+methods:0.704
+spectrum:0.703
+abu:0.700
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+young"
+Answer is: younger
+lower:0.867
+young:0.842
+abu:0.749
+spectrum:0.748
+anarchist:0.744
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+easy"
+Answer is: easier
+lower:0.816
+easy:0.813
+amongst:0.682
+clear:0.672
+academic:0.664
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+good"
+Answer is: better
+good:0.860
+lower:0.854
+anarcho:0.740
+anarchist:0.736
+autism:0.731
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+great"
+Answer is: greater
+great:0.856
+lower:0.851
+anarchist:0.779
+abu:0.771
+autism:0.768
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+hard"
+Answer is: harder
+lower:0.847
+hard:0.838
+anarcho:0.716
+activity:0.709
+amongst:0.707
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+high"
+Answer is: higher
+lower:0.851
+high:0.851
+anarchism:0.754
+abu:0.752
+anarchist:0.747
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+large"
+Answer is: larger
+large:0.859
+lower:0.835
+anarcho:0.724
+disorder:0.724
+spectrum:0.719
+===============================================
+
+
+===============================================
+The most similar words to "lower-low+long"
+Answer is: longer
+lower:0.856
+long:0.853
+anarchist:0.761
+disorder:0.760
+abu:0.754
+===============================================
+
+
+===============================================
+The most similar words to "older-old+short"
+Answer is: shorter
+older:0.813
+short:0.811
+stamps:0.702
+income:0.701
+prize:0.696
+===============================================
+
+
+===============================================
+The most similar words to "older-old+small"
+Answer is: smaller
+older:0.825
+small:0.809
+wesley:0.706
+strike:0.704
+stamps:0.698
+===============================================
+
+
+===============================================
+The most similar words to "older-old+wide"
+Answer is: wider
+wide:0.796
+older:0.783
+online:0.679
+myth:0.677
+fertile:0.675
+===============================================
+
+
+===============================================
+The most similar words to "older-old+young"
+Answer is: younger
+older:0.835
+young:0.807
+levels:0.705
+stamps:0.689
+income:0.689
+===============================================
+
+
+===============================================
+The most similar words to "older-old+easy"
+Answer is: easier
+easy:0.767
+older:0.763
+producing:0.647
+stamps:0.646
+fis:0.640
+===============================================
+
+
+===============================================
+The most similar words to "older-old+good"
+Answer is: better
+older:0.826
+good:0.804
+developmental:0.715
+anarcho:0.714
+kentucky:0.706
+===============================================
+
+
+===============================================
+The most similar words to "older-old+great"
+Answer is: greater
+older:0.837
+great:0.806
+developmental:0.716
+anarcho:0.716
+disorders:0.715
+===============================================
+
+
+===============================================
+The most similar words to "older-old+hard"
+Answer is: harder
+older:0.804
+hard:0.790
+kentucky:0.691
+reader:0.683
+certainly:0.678
+===============================================
+
+
+===============================================
+The most similar words to "older-old+high"
+Answer is: higher
+older:0.840
+high:0.806
+developmental:0.716
+keep:0.704
+consider:0.703
+===============================================
+
+
+===============================================
+The most similar words to "older-old+large"
+Answer is: larger
+large:0.810
+older:0.806
+developmental:0.701
+symbolic:0.700
+table:0.693
+===============================================
+
+
+===============================================
+The most similar words to "older-old+long"
+Answer is: longer
+older:0.828
+long:0.813
+goes:0.712
+stamps:0.711
+communism:0.710
+===============================================
+
+
+===============================================
+The most similar words to "older-old+low"
+Answer is: lower
+older:0.814
+low:0.804
+sought:0.696
+cracking:0.690
+stamps:0.688
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+small"
+Answer is: smaller
+shorter:0.767
+small:0.763
+tai:0.658
+biology:0.632
+feed:0.632
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+wide"
+Answer is: wider
+shorter:0.754
+wide:0.739
+radar:0.624
+jones:0.618
+thailand:0.615
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+young"
+Answer is: younger
+shorter:0.780
+young:0.747
+adults:0.652
+fertilizers:0.651
+defined:0.648
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+easy"
+Answer is: easier
+shorter:0.725
+easy:0.718
+quantitative:0.575
+indicates:0.566
+dust:0.558
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+good"
+Answer is: better
+shorter:0.785
+good:0.753
+tai:0.661
+reef:0.653
+akston:0.653
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+great"
+Answer is: greater
+shorter:0.773
+great:0.751
+perhaps:0.669
+adults:0.667
+emphasis:0.666
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+hard"
+Answer is: harder
+shorter:0.748
+hard:0.744
+reef:0.607
+intelligence:0.606
+judgment:0.605
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+high"
+Answer is: higher
+shorter:0.770
+high:0.757
+went:0.644
+functioning:0.640
+developmental:0.637
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+large"
+Answer is: larger
+shorter:0.761
+large:0.759
+willing:0.657
+formal:0.656
+descendants:0.650
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+long"
+Answer is: longer
+shorter:0.770
+long:0.769
+tried:0.643
+thousands:0.643
+tai:0.640
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+low"
+Answer is: lower
+shorter:0.776
+low:0.748
+criticism:0.649
+radar:0.646
+agent:0.645
+===============================================
+
+
+===============================================
+The most similar words to "shorter-short+old"
+Answer is: older
+shorter:0.779
+old:0.758
+kanner:0.660
+agent:0.653
+fled:0.651
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+wide"
+Answer is: wider
+wide:0.809
+smaller:0.798
+neo:0.685
+domestic:0.680
+fled:0.676
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+young"
+Answer is: younger
+young:0.817
+smaller:0.812
+mental:0.707
+autistics:0.703
+r:0.702
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+easy"
+Answer is: easier
+easy:0.776
+smaller:0.768
+neo:0.648
+navy:0.646
+grain:0.645
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+good"
+Answer is: better
+good:0.817
+smaller:0.813
+autistics:0.731
+policy:0.725
+alone:0.724
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+great"
+Answer is: greater
+great:0.823
+smaller:0.811
+autistics:0.719
+william:0.717
+wyatt:0.717
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+hard"
+Answer is: harder
+hard:0.806
+smaller:0.803
+achievement:0.686
+arabia:0.685
+brooke:0.681
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+high"
+Answer is: higher
+high:0.822
+smaller:0.810
+developmental:0.706
+chance:0.694
+spectrum:0.692
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+large"
+Answer is: larger
+large:0.822
+smaller:0.803
+similarly:0.706
+german:0.705
+developmental:0.702
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+long"
+Answer is: longer
+smaller:0.835
+long:0.824
+capitalist:0.726
+hector:0.720
+alone:0.718
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+low"
+Answer is: lower
+smaller:0.818
+low:0.813
+mental:0.713
+biological:0.708
+afterwards:0.707
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+old"
+Answer is: older
+old:0.820
+smaller:0.808
+fled:0.729
+dsm:0.727
+grant:0.724
+===============================================
+
+
+===============================================
+The most similar words to "smaller-small+short"
+Answer is: shorter
+short:0.834
+smaller:0.794
+finalist:0.698
+square:0.694
+december:0.689
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+young"
+Answer is: younger
+wider:0.823
+young:0.814
+asperger:0.718
+pervasive:0.708
+cnt:0.700
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+easy"
+Answer is: easier
+wider:0.779
+easy:0.774
+stamps:0.627
+factors:0.626
+appropriate:0.624
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+good"
+Answer is: better
+good:0.820
+wider:0.802
+workers:0.713
+anarcho:0.712
+anarchist:0.710
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+great"
+Answer is: greater
+great:0.828
+wider:0.771
+anarchist:0.729
+child:0.713
+autism:0.713
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+hard"
+Answer is: harder
+hard:0.798
+wider:0.787
+asperger:0.693
+anarchy:0.682
+killed:0.679
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+high"
+Answer is: higher
+high:0.819
+wider:0.798
+asperger:0.716
+we:0.710
+society:0.709
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+large"
+Answer is: larger
+large:0.823
+wider:0.800
+patroclus:0.700
+disorder:0.696
+asperger:0.696
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+long"
+Answer is: longer
+long:0.829
+wider:0.790
+asperger:0.721
+disorder:0.710
+anarchist:0.706
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+low"
+Answer is: lower
+low:0.820
+wider:0.809
+asperger:0.689
+anarchy:0.682
+pervasive:0.678
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+old"
+Answer is: older
+old:0.827
+wider:0.790
+asperger:0.720
+child:0.705
+anarchy:0.703
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+short"
+Answer is: shorter
+short:0.822
+wider:0.785
+asperger:0.712
+mentioned:0.704
+round:0.698
+===============================================
+
+
+===============================================
+The most similar words to "wider-wide+small"
+Answer is: smaller
+small:0.820
+wider:0.810
+asperger:0.716
+difference:0.705
+disorder:0.696
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+easy"
+Answer is: easier
+easy:0.764
+younger:0.753
+branched:0.618
+horse:0.617
+gets:0.615
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+good"
+Answer is: better
+good:0.809
+younger:0.800
+proclamation:0.699
+sensory:0.696
+anarchy:0.690
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+great"
+Answer is: greater
+great:0.812
+younger:0.807
+anarchy:0.697
+behavior:0.685
+anarcho:0.684
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+hard"
+Answer is: harder
+younger:0.805
+hard:0.795
+horse:0.660
+certainly:0.655
+amoeboids:0.652
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+high"
+Answer is: higher
+high:0.803
+younger:0.802
+practical:0.692
+functioning:0.687
+contemporary:0.687
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+large"
+Answer is: larger
+large:0.817
+younger:0.789
+patroclus:0.676
+referring:0.670
+practical:0.668
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+long"
+Answer is: longer
+long:0.815
+younger:0.803
+personal:0.702
+sensory:0.692
+bakunin:0.687
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+low"
+Answer is: lower
+younger:0.822
+low:0.800
+brown:0.693
+branched:0.682
+anarchy:0.680
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+old"
+Answer is: older
+younger:0.812
+old:0.811
+anarchy:0.698
+sensory:0.691
+produced:0.686
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+short"
+Answer is: shorter
+short:0.809
+younger:0.787
+lowercase:0.680
+play:0.677
+sensory:0.674
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+small"
+Answer is: smaller
+small:0.808
+younger:0.800
+tai:0.691
+personal:0.688
+sensory:0.684
+===============================================
+
+
+===============================================
+The most similar words to "younger-young+wide"
+Answer is: wider
+younger:0.801
+wide:0.792
+nearby:0.660
+results:0.660
+titles:0.658
+===============================================
+
+
+===============================================
+The most similar words to "best-good+great"
+Answer is: greatest
+great:0.864
+best:0.859
+autistic:0.774
+anarchism:0.767
+anarchist:0.766
+===============================================
+
+
+===============================================
+The most similar words to "best-good+high"
+Answer is: highest
+best:0.855
+high:0.853
+anarchism:0.768
+anarchists:0.765
+autistic:0.759
+===============================================
+
+
+===============================================
+The most similar words to "best-good+large"
+Answer is: largest
+large:0.846
+best:0.840
+illinois:0.759
+anarchists:0.757
+asperger:0.754
+===============================================
+
+
+===============================================
+The most similar words to "best-good+long"
+Answer is: longest
+best:0.861
+long:0.857
+anarchists:0.769
+autistic:0.764
+asperger:0.763
+===============================================
+
+
+===============================================
+The most similar words to "best-good+low"
+Answer is: lowest
+low:0.846
+best:0.834
+asperger:0.750
+alabama:0.738
+anarchists:0.734
+===============================================
+
+
+===============================================
+The most similar words to "best-good+old"
+Answer is: oldest
+best:0.862
+old:0.860
+autistic:0.760
+asperger:0.755
+anarchism:0.752
+===============================================
+
+
+===============================================
+The most similar words to "best-good+simple"
+Answer is: simplest
+simple:0.812
+best:0.796
+asperger:0.706
+developmental:0.702
+ethics:0.702
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+high"
+Answer is: highest
+high:0.849
+greatest:0.844
+pervasive:0.743
+syndrome:0.735
+functioning:0.734
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+large"
+Answer is: largest
+large:0.853
+greatest:0.822
+pervasive:0.739
+anarcha:0.734
+fascist:0.731
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+long"
+Answer is: longest
+long:0.848
+greatest:0.840
+pervasive:0.777
+understanding:0.755
+interaction:0.753
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+low"
+Answer is: lowest
+low:0.845
+greatest:0.824
+pervasive:0.753
+anarcha:0.733
+monarchy:0.731
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+old"
+Answer is: oldest
+greatest:0.852
+old:0.849
+pervasive:0.767
+fascist:0.749
+community:0.745
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+simple"
+Answer is: simplest
+simple:0.828
+greatest:0.772
+pervasive:0.692
+fis:0.688
+conformation:0.686
+===============================================
+
+
+===============================================
+The most similar words to "greatest-great+good"
+Answer is: best
+good:0.851
+greatest:0.839
+looters:0.748
+pervasive:0.748
+anarcho:0.740
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+large"
+Answer is: largest
+large:0.836
+highest:0.830
+delays:0.704
+dog:0.702
+nevertheless:0.700
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+long"
+Answer is: longest
+highest:0.836
+long:0.828
+diagnostic:0.737
+hector:0.730
+thetis:0.725
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+low"
+Answer is: lowest
+highest:0.830
+low:0.824
+formation:0.710
+immigration:0.709
+essentially:0.709
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+old"
+Answer is: oldest
+highest:0.850
+old:0.827
+grant:0.733
+heavens:0.729
+next:0.722
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+simple"
+Answer is: simplest
+highest:0.803
+simple:0.802
+rafter:0.681
+wildlife:0.676
+consists:0.673
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+good"
+Answer is: best
+highest:0.843
+good:0.829
+looters:0.723
+text:0.717
+learning:0.715
+===============================================
+
+
+===============================================
+The most similar words to "highest-high+great"
+Answer is: greatest
+highest:0.847
+great:0.831
+next:0.724
+remains:0.719
+diagnostic:0.713
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+long"
+Answer is: longest
+largest:0.866
+long:0.816
+now:0.751
+individuals:0.750
+anarchist:0.748
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+low"
+Answer is: lowest
+largest:0.837
+low:0.811
+authoritarian:0.719
+goldman:0.719
+south:0.714
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+old"
+Answer is: oldest
+largest:0.858
+old:0.824
+anarchism:0.738
+goldman:0.733
+anarcho:0.731
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+simple"
+Answer is: simplest
+largest:0.821
+simple:0.760
+understood:0.691
+student:0.691
+philosopher:0.691
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+good"
+Answer is: best
+largest:0.867
+good:0.821
+lincoln:0.739
+anarcho:0.738
+anarchism:0.735
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+great"
+Answer is: greatest
+largest:0.860
+great:0.829
+anarchism:0.752
+anarchist:0.748
+autism:0.746
+===============================================
+
+
+===============================================
+The most similar words to "largest-large+high"
+Answer is: highest
+largest:0.850
+high:0.811
+anarchism:0.761
+lincoln:0.748
+autism:0.746
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+low"
+Answer is: lowest
+longest:0.809
+low:0.794
+combined:0.702
+infrastructure:0.693
+wants:0.693
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+old"
+Answer is: oldest
+longest:0.814
+old:0.802
+governor:0.705
+danneskj:0.703
+sebastian:0.702
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+simple"
+Answer is: simplest
+simple:0.775
+longest:0.749
+soccer:0.660
+infrastructure:0.654
+terra:0.645
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+good"
+Answer is: best
+longest:0.819
+good:0.797
+danneskj:0.712
+sector:0.702
+sold:0.702
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+great"
+Answer is: greatest
+longest:0.807
+great:0.793
+postal:0.728
+essay:0.722
+speeches:0.719
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+high"
+Answer is: highest
+longest:0.806
+high:0.791
+postal:0.703
+developmental:0.699
+stereotyped:0.699
+===============================================
+
+
+===============================================
+The most similar words to "longest-long+large"
+Answer is: largest
+longest:0.811
+large:0.801
+abandoned:0.698
+hydrocarbons:0.698
+applications:0.696
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+old"
+Answer is: oldest
+old:0.832
+lowest:0.816
+spectrum:0.719
+manual:0.704
+reference:0.702
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+simple"
+Answer is: simplest
+lowest:0.794
+simple:0.785
+rafter:0.675
+bond:0.673
+championship:0.669
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+good"
+Answer is: best
+good:0.827
+lowest:0.806
+metaphysics:0.723
+anarcho:0.712
+bond:0.709
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+great"
+Answer is: greatest
+great:0.830
+lowest:0.813
+spectrum:0.720
+metaphysics:0.712
+anarcho:0.710
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+high"
+Answer is: highest
+high:0.818
+lowest:0.805
+spectrum:0.730
+functioning:0.720
+developmental:0.719
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+large"
+Answer is: largest
+large:0.835
+lowest:0.795
+standing:0.689
+spectrum:0.688
+metaphysics:0.688
+===============================================
+
+
+===============================================
+The most similar words to "lowest-low+long"
+Answer is: longest
+long:0.828
+lowest:0.816
+interaction:0.736
+hector:0.732
+morocco:0.718
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+simple"
+Answer is: simplest
+simple:0.767
+oldest:0.759
+ancestors:0.635
+periods:0.635
+responded:0.633
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+good"
+Answer is: best
+oldest:0.819
+good:0.798
+proclamation:0.704
+surface:0.693
+defendant:0.691
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+great"
+Answer is: greatest
+oldest:0.823
+great:0.794
+violence:0.711
+wound:0.711
+beliefs:0.707
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+high"
+Answer is: highest
+oldest:0.821
+high:0.788
+developmental:0.700
+bed:0.697
+proclamation:0.695
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+large"
+Answer is: largest
+large:0.802
+oldest:0.796
+sub:0.690
+online:0.687
+texas:0.686
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+long"
+Answer is: longest
+oldest:0.812
+long:0.800
+paid:0.703
+style:0.700
+wound:0.699
+===============================================
+
+
+===============================================
+The most similar words to "oldest-old+low"
+Answer is: lowest
+oldest:0.804
+low:0.795
+afc:0.683
+cracking:0.679
+brown:0.679
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+good"
+Answer is: best
+good:0.870
+simplest:0.810
+anarcho:0.734
+workers:0.731
+capitalism:0.727
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+great"
+Answer is: greatest
+great:0.868
+simplest:0.785
+autism:0.758
+abu:0.747
+anarchist:0.746
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+high"
+Answer is: highest
+high:0.861
+simplest:0.812
+syndrome:0.743
+autism:0.740
+authoritarian:0.737
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+large"
+Answer is: largest
+large:0.866
+simplest:0.814
+indian:0.734
+provided:0.728
+feminism:0.727
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+long"
+Answer is: longest
+long:0.874
+simplest:0.801
+disorder:0.728
+goes:0.726
+school:0.726
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+low"
+Answer is: lowest
+low:0.857
+simplest:0.828
+mortal:0.734
+pervasive:0.730
+nathaniel:0.727
+===============================================
+
+
+===============================================
+The most similar words to "simplest-simple+old"
+Answer is: oldest
+old:0.869
+simplest:0.806
+reference:0.736
+anarcho:0.735
+disorder:0.729
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+go"
+Answer is: going
+go:0.849
+describing:0.841
+schools:0.737
+bakunin:0.737
+syndicalism:0.732
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+increase"
+Answer is: increasing
+increase:0.873
+describing:0.822
+anarcho:0.767
+abraham:0.767
+disorders:0.767
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+look"
+Answer is: looking
+look:0.839
+describing:0.823
+blue:0.713
+zealand:0.713
+syndicalism:0.711
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+move"
+Answer is: moving
+move:0.843
+describing:0.835
+zealand:0.718
+congressional:0.716
+syndicalism:0.710
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+play"
+Answer is: playing
+play:0.857
+describing:0.837
+anarcho:0.785
+disorders:0.781
+spectrum:0.779
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+read"
+Answer is: reading
+read:0.851
+describing:0.829
+blue:0.723
+colonies:0.716
+alchemical:0.711
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+run"
+Answer is: running
+run:0.854
+describing:0.840
+disorders:0.762
+anarcho:0.761
+signed:0.760
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+say"
+Answer is: saying
+say:0.852
+describing:0.804
+disorders:0.742
+anarcho:0.737
+bakunin:0.723
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+see"
+Answer is: seeing
+see:0.861
+describing:0.781
+anarchists:0.713
+presidential:0.704
+capitalism:0.702
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+think"
+Answer is: thinking
+think:0.850
+describing:0.835
+closed:0.720
+spectrum:0.719
+join:0.718
+===============================================
+
+
+===============================================
+The most similar words to "describing-describe+write"
+Answer is: writing
+write:0.844
+describing:0.825
+greeks:0.712
+blue:0.709
+content:0.708
+===============================================
+
+
+===============================================
+The most similar words to "going-go+increase"
+Answer is: increasing
+increase:0.875
+going:0.846
+alabama:0.778
+anarcho:0.769
+rebellion:0.763
+===============================================
+
+
+===============================================
+The most similar words to "going-go+look"
+Answer is: looking
+look:0.842
+going:0.841
+diagnostic:0.718
+financial:0.709
+arabs:0.706
+===============================================
+
+
+===============================================
+The most similar words to "going-go+move"
+Answer is: moving
+going:0.847
+move:0.842
+diagnostic:0.734
+nathaniel:0.717
+mental:0.717
+===============================================
+
+
+===============================================
+The most similar words to "going-go+play"
+Answer is: playing
+play:0.864
+going:0.854
+anarcho:0.775
+rebellion:0.765
+public:0.761
+===============================================
+
+
+===============================================
+The most similar words to "going-go+read"
+Answer is: reading
+read:0.843
+going:0.839
+mental:0.737
+shall:0.736
+anarcho:0.735
+===============================================
+
+
+===============================================
+The most similar words to "going-go+run"
+Answer is: running
+run:0.859
+going:0.854
+anarcho:0.761
+rebellion:0.751
+alabama:0.748
+===============================================
+
+
+===============================================
+The most similar words to "going-go+say"
+Answer is: saying
+say:0.851
+going:0.834
+anarcho:0.752
+achilles:0.736
+countries:0.732
+===============================================
+
+
+===============================================
+The most similar words to "going-go+see"
+Answer is: seeing
+see:0.866
+going:0.789
+anarchists:0.706
+robert:0.704
+diagnostic:0.703
+===============================================
+
+
+===============================================
+The most similar words to "going-go+think"
+Answer is: thinking
+think:0.851
+going:0.842
+diagnostic:0.729
+anarcho:0.723
+financial:0.721
+===============================================
+
+
+===============================================
+The most similar words to "going-go+write"
+Answer is: writing
+write:0.836
+going:0.830
+diagnostic:0.727
+elements:0.723
+pervasive:0.720
+===============================================
+
+
+===============================================
+The most similar words to "going-go+describe"
+Answer is: describing
+going:0.838
+describe:0.832
+focus:0.714
+communicate:0.710
+diagnostic:0.710
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+look"
+Answer is: looking
+look:0.768
+increasing:0.767
+breeding:0.672
+model:0.669
+organic:0.661
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+move"
+Answer is: moving
+move:0.770
+increasing:0.769
+breeding:0.680
+organic:0.680
+reflected:0.679
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+play"
+Answer is: playing
+increasing:0.807
+play:0.799
+hector:0.702
+energy:0.700
+speaking:0.698
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+read"
+Answer is: reading
+increasing:0.789
+read:0.782
+safe:0.676
+organic:0.670
+fis:0.669
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+run"
+Answer is: running
+increasing:0.824
+run:0.785
+grant:0.717
+model:0.714
+sun:0.706
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+say"
+Answer is: saying
+say:0.789
+increasing:0.767
+organic:0.666
+gain:0.662
+anarchy:0.658
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+see"
+Answer is: seeing
+see:0.800
+increasing:0.735
+hermes:0.640
+andorra:0.633
+grant:0.632
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+think"
+Answer is: thinking
+think:0.782
+increasing:0.780
+organic:0.661
+previously:0.660
+export:0.660
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+write"
+Answer is: writing
+write:0.786
+increasing:0.752
+breeding:0.655
+motivated:0.645
+bering:0.641
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+describe"
+Answer is: describing
+describe:0.759
+increasing:0.754
+attested:0.660
+organic:0.654
+breeding:0.653
+===============================================
+
+
+===============================================
+The most similar words to "increasing-increase+go"
+Answer is: going
+go:0.787
+increasing:0.785
+breeding:0.686
+sort:0.685
+organic:0.679
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+move"
+Answer is: moving
+looking:0.837
+move:0.836
+choice:0.727
+somewhat:0.727
+functioning:0.726
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+play"
+Answer is: playing
+play:0.864
+looking:0.838
+anarcho:0.780
+disorder:0.751
+letter:0.750
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+read"
+Answer is: reading
+read:0.848
+looking:0.823
+anarcho:0.727
+choice:0.724
+southern:0.721
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+run"
+Answer is: running
+run:0.858
+looking:0.854
+anarcho:0.767
+functioning:0.758
+significant:0.749
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+say"
+Answer is: saying
+say:0.850
+looking:0.798
+anarcho:0.760
+anarchy:0.736
+disorder:0.736
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+see"
+Answer is: seeing
+see:0.865
+looking:0.780
+anarcho:0.703
+anarchism:0.699
+anarchists:0.690
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+think"
+Answer is: thinking
+looking:0.864
+think:0.841
+anarcho:0.749
+autistics:0.744
+significant:0.732
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+write"
+Answer is: writing
+looking:0.853
+write:0.833
+rett:0.741
+treatment:0.726
+acids:0.723
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+describe"
+Answer is: describing
+describe:0.837
+looking:0.822
+choice:0.703
+napoleon:0.701
+molecular:0.698
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+go"
+Answer is: going
+go:0.852
+looking:0.842
+anarcho:0.725
+somewhat:0.724
+behind:0.724
+===============================================
+
+
+===============================================
+The most similar words to "looking-look+increase"
+Answer is: increasing
+increase:0.873
+looking:0.827
+anarcho:0.782
+alabama:0.772
+child:0.768
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+play"
+Answer is: playing
+play:0.855
+moving:0.831
+anarcho:0.751
+sensory:0.741
+cnt:0.736
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+read"
+Answer is: reading
+moving:0.842
+read:0.831
+vowel:0.727
+criteria:0.724
+snow:0.721
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+run"
+Answer is: running
+run:0.848
+moving:0.841
+anarcho:0.742
+pervasive:0.740
+cnt:0.739
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+say"
+Answer is: saying
+say:0.852
+moving:0.822
+anarcho:0.705
+disorders:0.696
+cnt:0.692
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+see"
+Answer is: seeing
+see:0.857
+moving:0.764
+anarchists:0.678
+anarcho:0.677
+syndrome:0.675
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+think"
+Answer is: thinking
+think:0.839
+moving:0.831
+nevertheless:0.710
+criteria:0.705
+pervasive:0.704
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+write"
+Answer is: writing
+moving:0.835
+write:0.822
+essay:0.720
+ragnar:0.717
+assistive:0.717
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+describe"
+Answer is: describing
+moving:0.833
+describe:0.820
+seems:0.703
+vowel:0.700
+dependent:0.700
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+go"
+Answer is: going
+moving:0.851
+go:0.838
+vowel:0.742
+pervasive:0.722
+seems:0.722
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+increase"
+Answer is: increasing
+increase:0.861
+moving:0.834
+anarcho:0.764
+seems:0.759
+slaves:0.758
+===============================================
+
+
+===============================================
+The most similar words to "moving-move+look"
+Answer is: looking
+moving:0.836
+look:0.814
+pervasive:0.725
+postal:0.722
+howard:0.720
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+read"
+Answer is: reading
+read:0.791
+playing:0.786
+safe:0.660
+marine:0.656
+blue:0.653
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+run"
+Answer is: running
+playing:0.815
+run:0.796
+respectively:0.699
+powers:0.697
+astrology:0.693
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+say"
+Answer is: saying
+say:0.796
+playing:0.795
+finds:0.648
+table:0.644
+grounds:0.643
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+see"
+Answer is: seeing
+see:0.800
+playing:0.752
+diagnostic:0.648
+goods:0.647
+machinery:0.642
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+think"
+Answer is: thinking
+playing:0.807
+think:0.780
+marine:0.677
+bantu:0.676
+border:0.672
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+write"
+Answer is: writing
+write:0.786
+playing:0.780
+conjugate:0.648
+neighbouring:0.646
+norway:0.644
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+describe"
+Answer is: describing
+playing:0.777
+describe:0.753
+virtuous:0.676
+respectively:0.671
+usa:0.667
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+go"
+Answer is: going
+playing:0.797
+go:0.788
+accessible:0.675
+cotton:0.675
+arithmetic:0.673
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+increase"
+Answer is: increasing
+increase:0.822
+playing:0.813
+adults:0.705
+champions:0.696
+powers:0.695
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+look"
+Answer is: looking
+playing:0.780
+look:0.771
+mercury:0.660
+marine:0.659
+jones:0.657
+===============================================
+
+
+===============================================
+The most similar words to "playing-play+move"
+Answer is: moving
+move:0.783
+playing:0.768
+mercury:0.664
+marine:0.662
+virtuous:0.661
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+run"
+Answer is: running
+reading:0.853
+run:0.844
+asperger:0.743
+mark:0.727
+experience:0.727
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+say"
+Answer is: saying
+say:0.824
+reading:0.823
+anarchy:0.748
+asperger:0.746
+disorders:0.736
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+see"
+Answer is: seeing
+see:0.841
+reading:0.785
+asperger:0.705
+eventually:0.690
+algiers:0.688
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+think"
+Answer is: thinking
+reading:0.842
+think:0.822
+partner:0.727
+chemistry:0.725
+attacks:0.722
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+write"
+Answer is: writing
+reading:0.836
+write:0.830
+reserves:0.691
+howard:0.689
+los:0.689
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+describe"
+Answer is: describing
+reading:0.821
+describe:0.821
+involves:0.684
+arabia:0.683
+occurred:0.681
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+go"
+Answer is: going
+reading:0.843
+go:0.836
+wayne:0.711
+asperger:0.709
+centuries:0.708
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+increase"
+Answer is: increasing
+increase:0.855
+reading:0.838
+asperger:0.766
+dhabi:0.750
+arab:0.749
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+look"
+Answer is: looking
+look:0.823
+reading:0.822
+eventually:0.699
+afterwards:0.695
+constructed:0.692
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+move"
+Answer is: moving
+reading:0.833
+move:0.818
+improved:0.721
+arabia:0.715
+serves:0.713
+===============================================
+
+
+===============================================
+The most similar words to "reading-read+play"
+Answer is: playing
+play:0.846
+reading:0.831
+asperger:0.752
+eventually:0.747
+kingdom:0.746
+===============================================
+
+
+===============================================
+The most similar words to "running-run+say"
+Answer is: saying
+running:0.811
+say:0.806
+force:0.680
+disorder:0.680
+know:0.675
+===============================================
+
+
+===============================================
+The most similar words to "running-run+see"
+Answer is: seeing
+see:0.815
+running:0.784
+behaviors:0.657
+emancipation:0.656
+force:0.654
+===============================================
+
+
+===============================================
+The most similar words to "running-run+think"
+Answer is: thinking
+running:0.840
+think:0.795
+forum:0.695
+bantu:0.691
+location:0.689
+===============================================
+
+
+===============================================
+The most similar words to "running-run+write"
+Answer is: writing
+running:0.816
+write:0.787
+differences:0.698
+separation:0.686
+raising:0.685
+===============================================
+
+
+===============================================
+The most similar words to "running-run+describe"
+Answer is: describing
+running:0.820
+describe:0.782
+willing:0.684
+farming:0.678
+usa:0.674
+===============================================
+
+
+===============================================
+The most similar words to "running-run+go"
+Answer is: going
+running:0.830
+go:0.801
+commercial:0.702
+distribution:0.694
+banner:0.694
+===============================================
+
+
+===============================================
+The most similar words to "running-run+increase"
+Answer is: increasing
+running:0.858
+increase:0.827
+disorder:0.739
+says:0.732
+diagnosis:0.732
+===============================================
+
+
+===============================================
+The most similar words to "running-run+look"
+Answer is: looking
+running:0.828
+look:0.784
+arrangement:0.684
+banner:0.684
+whereas:0.683
+===============================================
+
+
+===============================================
+The most similar words to "running-run+move"
+Answer is: moving
+running:0.812
+move:0.791
+indiana:0.690
+technological:0.685
+wesley:0.684
+===============================================
+
+
+===============================================
+The most similar words to "running-run+play"
+Answer is: playing
+running:0.850
+play:0.818
+personal:0.719
+sensory:0.716
+behaviors:0.712
+===============================================
+
+
+===============================================
+The most similar words to "running-run+read"
+Answer is: reading
+running:0.833
+read:0.802
+forum:0.688
+propane:0.682
+commercial:0.681
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+see"
+Answer is: seeing
+see:0.834
+saying:0.774
+robert:0.690
+proudhon:0.687
+occur:0.684
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+think"
+Answer is: thinking
+think:0.817
+saying:0.810
+receiving:0.726
+border:0.718
+feminism:0.707
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+write"
+Answer is: writing
+saying:0.816
+write:0.806
+morality:0.717
+causation:0.710
+reading:0.708
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+describe"
+Answer is: describing
+describe:0.806
+saying:0.798
+branched:0.690
+receiving:0.687
+enjoyment:0.684
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+go"
+Answer is: going
+saying:0.834
+go:0.825
+branched:0.713
+receiving:0.712
+notable:0.701
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+increase"
+Answer is: increasing
+increase:0.849
+saying:0.825
+adults:0.748
+proudhon:0.747
+alabama:0.744
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+look"
+Answer is: looking
+look:0.809
+saying:0.798
+copper:0.697
+morality:0.694
+basic:0.694
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+move"
+Answer is: moving
+move:0.813
+saying:0.797
+receiving:0.714
+heroes:0.707
+st:0.703
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+play"
+Answer is: playing
+saying:0.844
+play:0.837
+sites:0.740
+proudhon:0.733
+capitalism:0.732
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+read"
+Answer is: reading
+saying:0.837
+read:0.820
+receiving:0.712
+understood:0.709
+heroes:0.700
+===============================================
+
+
+===============================================
+The most similar words to "saying-say+run"
+Answer is: running
+run:0.831
+saying:0.831
+award:0.731
+proudhon:0.730
+pervasive:0.728
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+think"
+Answer is: thinking
+seeing:0.797
+think:0.753
+classification:0.675
+figure:0.668
+arrangement:0.667
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+write"
+Answer is: writing
+seeing:0.767
+write:0.762
+tar:0.671
+philosophies:0.653
+aeronautical:0.649
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+describe"
+Answer is: describing
+seeing:0.789
+describe:0.742
+foundation:0.650
+tar:0.646
+latter:0.642
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+go"
+Answer is: going
+seeing:0.791
+go:0.764
+county:0.669
+pago:0.665
+formation:0.665
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+increase"
+Answer is: increasing
+seeing:0.819
+increase:0.796
+treaty:0.693
+county:0.693
+diagnosis:0.691
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+look"
+Answer is: looking
+seeing:0.785
+look:0.750
+arrangement:0.657
+purchase:0.646
+chain:0.645
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+move"
+Answer is: moving
+seeing:0.771
+move:0.765
+intensive:0.658
+inability:0.654
+formation:0.647
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+play"
+Answer is: playing
+seeing:0.835
+play:0.778
+kingdom:0.707
+killed:0.687
+hidden:0.687
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+read"
+Answer is: reading
+seeing:0.801
+read:0.755
+figure:0.681
+tar:0.671
+everyone:0.669
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+run"
+Answer is: running
+seeing:0.825
+run:0.773
+inability:0.690
+latter:0.688
+county:0.687
+===============================================
+
+
+===============================================
+The most similar words to "seeing-see+say"
+Answer is: saying
+seeing:0.786
+say:0.761
+pago:0.663
+tar:0.662
+question:0.659
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+write"
+Answer is: writing
+write:0.838
+thinking:0.819
+developmental:0.718
+boy:0.713
+asperger:0.710
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+describe"
+Answer is: describing
+describe:0.826
+thinking:0.811
+asperger:0.709
+founding:0.709
+developmental:0.708
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+go"
+Answer is: going
+go:0.849
+thinking:0.827
+asperger:0.728
+developmental:0.727
+allowed:0.719
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+increase"
+Answer is: increasing
+increase:0.874
+thinking:0.829
+asperger:0.764
+prior:0.761
+abraham:0.761
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+look"
+Answer is: looking
+thinking:0.846
+look:0.821
+asperger:0.744
+developmental:0.744
+fascist:0.731
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+move"
+Answer is: moving
+move:0.839
+thinking:0.809
+developmental:0.712
+historic:0.710
+asperger:0.709
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+play"
+Answer is: playing
+play:0.859
+thinking:0.849
+developmental:0.773
+asperger:0.770
+anarcho:0.763
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+read"
+Answer is: reading
+read:0.845
+thinking:0.841
+developmental:0.712
+ragnar:0.711
+alchemical:0.709
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+run"
+Answer is: running
+run:0.855
+thinking:0.852
+asperger:0.767
+developmental:0.764
+august:0.750
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+say"
+Answer is: saying
+say:0.854
+thinking:0.810
+asperger:0.722
+developmental:0.718
+anarcho:0.714
+===============================================
+
+
+===============================================
+The most similar words to "thinking-think+see"
+Answer is: seeing
+see:0.860
+thinking:0.779
+robert:0.708
+asperger:0.708
+ethics:0.702
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+describe"
+Answer is: describing
+writing:0.852
+describe:0.829
+sense:0.734
+germany:0.722
+institute:0.721
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+go"
+Answer is: going
+writing:0.863
+go:0.842
+reason:0.756
+bakunin:0.755
+capitalism:0.754
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+increase"
+Answer is: increasing
+increase:0.883
+writing:0.861
+autism:0.772
+child:0.770
+anarchist:0.769
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+look"
+Answer is: looking
+writing:0.878
+look:0.820
+front:0.749
+capitalism:0.746
+set:0.744
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+move"
+Answer is: moving
+writing:0.861
+move:0.827
+institute:0.744
+functioning:0.744
+feminist:0.744
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+play"
+Answer is: playing
+writing:0.870
+play:0.866
+autism:0.776
+anarcho:0.775
+achilles:0.774
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+read"
+Answer is: reading
+writing:0.857
+read:0.833
+anarcho:0.762
+rebellion:0.754
+front:0.754
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+run"
+Answer is: running
+writing:0.874
+run:0.854
+anarchist:0.786
+anarcho:0.777
+autism:0.776
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+say"
+Answer is: saying
+writing:0.861
+say:0.848
+autistic:0.767
+achilles:0.766
+anarcho:0.765
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+see"
+Answer is: seeing
+see:0.863
+writing:0.801
+anarchists:0.740
+anarchism:0.739
+autism:0.737
+===============================================
+
+
+===============================================
+The most similar words to "writing-write+think"
+Answer is: thinking
+writing:0.862
+think:0.840
+anarcho:0.756
+abu:0.754
+autism:0.753
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+going"
+Answer is: went
+described:0.877
+going:0.857
+anarcho:0.795
+proudhon:0.785
+anarchists:0.784
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+increasing"
+Answer is: increased
+described:0.879
+increasing:0.842
+anarchists:0.775
+syndrome:0.773
+arab:0.772
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+moving"
+Answer is: moved
+described:0.849
+moving:0.843
+anarcho:0.762
+communication:0.760
+authoritarian:0.753
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+playing"
+Answer is: played
+described:0.847
+playing:0.832
+anarcho:0.768
+anarchists:0.744
+spectrum:0.744
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+reading"
+Answer is: read
+described:0.864
+reading:0.838
+arab:0.779
+anarcho:0.771
+dhabi:0.768
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+running"
+Answer is: ran
+described:0.855
+running:0.845
+anarcho:0.774
+dhabi:0.761
+illinois:0.760
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+saying"
+Answer is: said
+described:0.874
+saying:0.843
+anarchism:0.791
+slavery:0.786
+anarchists:0.784
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+seeing"
+Answer is: saw
+described:0.866
+seeing:0.837
+illinois:0.767
+anarcho:0.765
+alabama:0.764
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+taking"
+Answer is: took
+described:0.867
+taking:0.865
+alabama:0.775
+anarchists:0.774
+autism:0.773
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+thinking"
+Answer is: thought
+described:0.865
+thinking:0.842
+syndrome:0.780
+anarcho:0.779
+spectrum:0.779
+===============================================
+
+
+===============================================
+The most similar words to "described-describing+writing"
+Answer is: wrote
+described:0.877
+writing:0.873
+anarchism:0.789
+anarchist:0.789
+autism:0.789
+===============================================
+
+
+===============================================
+The most similar words to "went-going+increasing"
+Answer is: increased
+increasing:0.833
+went:0.823
+principles:0.729
+understood:0.720
+explained:0.719
+===============================================
+
+
+===============================================
+The most similar words to "went-going+moving"
+Answer is: moved
+moving:0.848
+went:0.811
+vowel:0.684
+directors:0.678
+diagnosis:0.677
+===============================================
+
+
+===============================================
+The most similar words to "went-going+playing"
+Answer is: played
+playing:0.826
+went:0.794
+promote:0.699
+anarcho:0.685
+analysis:0.682
+===============================================
+
+
+===============================================
+The most similar words to "went-going+reading"
+Answer is: read
+went:0.840
+reading:0.829
+principles:0.728
+devices:0.725
+howard:0.725
+===============================================
+
+
+===============================================
+The most similar words to "went-going+running"
+Answer is: ran
+running:0.846
+went:0.809
+pro:0.705
+diagnosis:0.705
+trouble:0.700
+===============================================
+
+
+===============================================
+The most similar words to "went-going+saying"
+Answer is: said
+went:0.846
+saying:0.834
+high:0.735
+developmental:0.732
+understood:0.730
+===============================================
+
+
+===============================================
+The most similar words to "went-going+seeing"
+Answer is: saw
+seeing:0.835
+went:0.808
+diagnosis:0.699
+trouble:0.696
+mountain:0.695
+===============================================
+
+
+===============================================
+The most similar words to "went-going+taking"
+Answer is: took
+taking:0.849
+went:0.843
+diagnosis:0.743
+disorders:0.740
+cnt:0.731
+===============================================
+
+
+===============================================
+The most similar words to "went-going+thinking"
+Answer is: thought
+thinking:0.837
+went:0.816
+developmental:0.720
+principles:0.710
+learn:0.708
+===============================================
+
+
+===============================================
+The most similar words to "went-going+writing"
+Answer is: wrote
+writing:0.850
+went:0.840
+child:0.759
+functioning:0.753
+anarcho:0.753
+===============================================
+
+
+===============================================
+The most similar words to "went-going+describing"
+Answer is: described
+describing:0.828
+went:0.811
+promote:0.702
+vowel:0.690
+theorists:0.688
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+moving"
+Answer is: moved
+moving:0.840
+increased:0.825
+feminism:0.721
+authoritarian:0.716
+gdp:0.710
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+playing"
+Answer is: played
+playing:0.835
+increased:0.811
+anarcho:0.701
+diagnostic:0.694
+tolstoy:0.687
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+reading"
+Answer is: read
+reading:0.844
+increased:0.843
+feminism:0.718
+howard:0.712
+prize:0.712
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+running"
+Answer is: ran
+running:0.848
+increased:0.841
+feminism:0.721
+won:0.712
+anarcho:0.711
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+saying"
+Answer is: said
+increased:0.851
+saying:0.841
+feminism:0.744
+high:0.739
+capitalism:0.739
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+seeing"
+Answer is: saw
+seeing:0.836
+increased:0.833
+feminism:0.726
+prize:0.719
+algeria:0.715
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+taking"
+Answer is: took
+taking:0.855
+increased:0.846
+feminism:0.746
+alabama:0.740
+diagnosis:0.739
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+thinking"
+Answer is: thought
+thinking:0.843
+increased:0.828
+developmental:0.726
+francisco:0.726
+feminism:0.724
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+writing"
+Answer is: wrote
+writing:0.866
+increased:0.844
+lincoln:0.748
+feminism:0.747
+anarcho:0.746
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+describing"
+Answer is: described
+increased:0.832
+describing:0.831
+business:0.703
+behavioral:0.699
+feminism:0.699
+===============================================
+
+
+===============================================
+The most similar words to "increased-increasing+going"
+Answer is: went
+going:0.857
+increased:0.847
+anarcho:0.743
+feminism:0.739
+mental:0.738
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+playing"
+Answer is: played
+playing:0.837
+moved:0.832
+violence:0.733
+analysis:0.724
+asperger:0.719
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+reading"
+Answer is: read
+moved:0.848
+reading:0.839
+opposition:0.760
+ground:0.756
+asperger:0.754
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+running"
+Answer is: ran
+moved:0.846
+running:0.843
+disorder:0.761
+capitalism:0.756
+adults:0.752
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+saying"
+Answer is: said
+moved:0.870
+saying:0.851
+capitalism:0.759
+bakunin:0.758
+violence:0.750
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+seeing"
+Answer is: saw
+moved:0.847
+seeing:0.831
+violence:0.759
+alabama:0.755
+award:0.753
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+taking"
+Answer is: took
+moved:0.865
+taking:0.857
+violence:0.773
+alabama:0.772
+disorder:0.765
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+thinking"
+Answer is: thought
+thinking:0.850
+moved:0.848
+violence:0.745
+spectrum:0.744
+asperger:0.743
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+writing"
+Answer is: wrote
+writing:0.868
+moved:0.843
+capitalism:0.777
+lincoln:0.774
+anarchists:0.773
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+describing"
+Answer is: described
+describing:0.843
+moved:0.822
+violence:0.725
+analysis:0.718
+capitalism:0.716
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+going"
+Answer is: went
+going:0.866
+moved:0.846
+disorder:0.755
+mental:0.752
+capitalism:0.751
+===============================================
+
+
+===============================================
+The most similar words to "moved-moving+increasing"
+Answer is: increased
+increasing:0.853
+moved:0.853
+bakunin:0.745
+violence:0.742
+opposition:0.737
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+reading"
+Answer is: read
+played:0.855
+reading:0.855
+autistics:0.741
+anarchy:0.740
+albedo:0.737
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+running"
+Answer is: ran
+running:0.861
+played:0.855
+diagnosis:0.733
+emancipation:0.732
+feminism:0.724
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+saying"
+Answer is: said
+saying:0.856
+played:0.838
+albedo:0.749
+dr:0.744
+autistics:0.742
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+seeing"
+Answer is: saw
+seeing:0.839
+played:0.837
+albedo:0.754
+diagnosis:0.750
+feminism:0.746
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+taking"
+Answer is: took
+taking:0.860
+played:0.847
+diagnosis:0.771
+autistics:0.766
+nathaniel:0.762
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+thinking"
+Answer is: thought
+thinking:0.852
+played:0.842
+autistics:0.744
+phase:0.740
+albedo:0.737
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+writing"
+Answer is: wrote
+writing:0.863
+played:0.846
+feminism:0.776
+sense:0.775
+subject:0.774
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+describing"
+Answer is: described
+describing:0.844
+played:0.829
+hot:0.731
+autistics:0.723
+diagnosis:0.719
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+going"
+Answer is: went
+going:0.861
+played:0.845
+mental:0.762
+anarchy:0.759
+diagnosis:0.758
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+increasing"
+Answer is: increased
+increasing:0.852
+played:0.843
+autistics:0.750
+albedo:0.748
+anarchy:0.747
+===============================================
+
+
+===============================================
+The most similar words to "played-playing+moving"
+Answer is: moved
+moving:0.846
+played:0.838
+diagnosis:0.741
+albedo:0.738
+communication:0.737
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+running"
+Answer is: ran
+read:0.844
+running:0.843
+anarcho:0.719
+wrong:0.717
+sensory:0.709
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+saying"
+Answer is: said
+read:0.864
+saying:0.844
+proudhon:0.726
+anarcho:0.721
+moved:0.721
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+seeing"
+Answer is: saw
+read:0.845
+seeing:0.829
+anarcho:0.719
+proudhon:0.718
+figure:0.716
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+taking"
+Answer is: took
+read:0.850
+taking:0.847
+front:0.755
+proudhon:0.748
+believed:0.747
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+thinking"
+Answer is: thought
+read:0.851
+thinking:0.839
+anarcho:0.724
+self:0.718
+spectrum:0.714
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+writing"
+Answer is: wrote
+writing:0.854
+read:0.841
+anarcho:0.769
+lincoln:0.762
+anarchist:0.760
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+describing"
+Answer is: described
+read:0.831
+describing:0.830
+wrong:0.705
+freedom:0.694
+below:0.690
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+going"
+Answer is: went
+read:0.864
+going:0.842
+anarcho:0.771
+proudhon:0.764
+mental:0.754
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+increasing"
+Answer is: increased
+read:0.854
+increasing:0.840
+wrong:0.726
+republicans:0.720
+front:0.719
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+moving"
+Answer is: moved
+read:0.842
+moving:0.833
+anarcho:0.718
+say:0.715
+served:0.711
+===============================================
+
+
+===============================================
+The most similar words to "read-reading+playing"
+Answer is: played
+read:0.831
+playing:0.828
+anarcho:0.713
+below:0.691
+tropical:0.690
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+saying"
+Answer is: said
+saying:0.854
+ran:0.836
+save:0.735
+god:0.732
+developmental:0.730
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+seeing"
+Answer is: saw
+seeing:0.841
+ran:0.811
+autistics:0.722
+save:0.720
+road:0.720
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+taking"
+Answer is: took
+taking:0.863
+ran:0.824
+god:0.744
+autistics:0.743
+disorders:0.742
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+thinking"
+Answer is: thought
+thinking:0.848
+ran:0.840
+developmental:0.736
+autistics:0.729
+das:0.729
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+writing"
+Answer is: wrote
+writing:0.865
+ran:0.846
+set:0.763
+anarcho:0.762
+functioning:0.758
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+describing"
+Answer is: described
+describing:0.835
+ran:0.803
+mcclellan:0.727
+king:0.721
+attention:0.718
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+going"
+Answer is: went
+going:0.868
+ran:0.835
+anarcho:0.735
+proudhon:0.732
+save:0.731
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+increasing"
+Answer is: increased
+increasing:0.841
+ran:0.836
+autistics:0.753
+confederate:0.750
+god:0.748
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+moving"
+Answer is: moved
+moving:0.840
+ran:0.829
+save:0.737
+mcclellan:0.730
+functioning:0.728
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+playing"
+Answer is: played
+playing:0.836
+ran:0.817
+anarcho:0.716
+das:0.715
+violence:0.708
+===============================================
+
+
+===============================================
+The most similar words to "ran-running+reading"
+Answer is: read
+reading:0.844
+ran:0.830
+autistics:0.741
+road:0.732
+afterwards:0.731
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+seeing"
+Answer is: saw
+said:0.868
+seeing:0.840
+anarchist:0.759
+anarcho:0.757
+workers:0.757
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+taking"
+Answer is: took
+taking:0.866
+said:0.850
+might:0.791
+anarchist:0.779
+behavior:0.775
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+thinking"
+Answer is: thought
+said:0.863
+thinking:0.840
+might:0.784
+anarcho:0.779
+spectrum:0.779
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+writing"
+Answer is: wrote
+said:0.878
+writing:0.873
+anarchist:0.797
+autistic:0.783
+anarcho:0.782
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+describing"
+Answer is: described
+said:0.850
+describing:0.828
+long:0.754
+individuals:0.754
+anarchist:0.753
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+going"
+Answer is: went
+said:0.886
+going:0.861
+might:0.793
+anarcho:0.787
+anarchist:0.782
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+increasing"
+Answer is: increased
+said:0.874
+increasing:0.845
+behavior:0.773
+might:0.773
+culture:0.767
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+moving"
+Answer is: moved
+said:0.866
+moving:0.835
+might:0.773
+anarcho:0.772
+men:0.766
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+playing"
+Answer is: played
+playing:0.850
+said:0.840
+might:0.746
+anarcho:0.737
+individuals:0.735
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+reading"
+Answer is: read
+said:0.868
+reading:0.839
+might:0.780
+behavior:0.779
+autistics:0.766
+===============================================
+
+
+===============================================
+The most similar words to "said-saying+running"
+Answer is: ran
+said:0.855
+running:0.851
+might:0.769
+disorder:0.761
+anarcho:0.760
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+taking"
+Answer is: took
+saw:0.862
+taking:0.858
+disorders:0.773
+movements:0.764
+spectrum:0.761
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+thinking"
+Answer is: thought
+saw:0.867
+thinking:0.850
+asperger:0.748
+spectrum:0.748
+fascist:0.744
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+writing"
+Answer is: wrote
+saw:0.882
+writing:0.854
+movements:0.797
+anarcho:0.795
+asperger:0.795
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+describing"
+Answer is: described
+saw:0.850
+describing:0.818
+disorders:0.753
+asperger:0.752
+spectrum:0.746
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+going"
+Answer is: went
+saw:0.864
+going:0.855
+anarcho:0.775
+disorder:0.772
+asperger:0.771
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+increasing"
+Answer is: increased
+saw:0.869
+increasing:0.839
+fascist:0.761
+asperger:0.758
+disorders:0.757
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+moving"
+Answer is: moved
+saw:0.867
+moving:0.831
+disorders:0.764
+anarcho:0.755
+fascist:0.754
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+playing"
+Answer is: played
+saw:0.849
+playing:0.826
+anarcho:0.752
+asperger:0.742
+spectrum:0.733
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+reading"
+Answer is: read
+saw:0.870
+reading:0.835
+asperger:0.763
+dhabi:0.758
+down:0.756
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+running"
+Answer is: ran
+saw:0.853
+running:0.847
+disorder:0.750
+fascist:0.750
+anarcho:0.746
+===============================================
+
+
+===============================================
+The most similar words to "saw-seeing+saying"
+Answer is: said
+saw:0.879
+saying:0.840
+disorders:0.765
+dhabi:0.764
+bakunin:0.762
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+thinking"
+Answer is: thought
+thinking:0.825
+took:0.821
+anarcho:0.734
+syndrome:0.721
+dhabi:0.720
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+writing"
+Answer is: wrote
+took:0.850
+writing:0.847
+anarchism:0.769
+anarcho:0.768
+anarchist:0.763
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+describing"
+Answer is: described
+describing:0.813
+took:0.807
+anarcho:0.702
+bakunin:0.694
+sensory:0.689
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+going"
+Answer is: went
+took:0.859
+going:0.839
+anarcho:0.762
+anarchism:0.743
+autistic:0.737
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+increasing"
+Answer is: increased
+took:0.841
+increasing:0.817
+bakunin:0.744
+anarcho:0.742
+few:0.734
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+moving"
+Answer is: moved
+took:0.839
+moving:0.812
+anarcho:0.743
+save:0.720
+troy:0.719
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+playing"
+Answer is: played
+took:0.813
+playing:0.805
+anarcho:0.737
+asperger:0.696
+said:0.696
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+reading"
+Answer is: read
+took:0.833
+reading:0.809
+anarcho:0.749
+dhabi:0.744
+rule:0.737
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+running"
+Answer is: ran
+running:0.828
+took:0.818
+anarcho:0.733
+dhabi:0.717
+sensory:0.713
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+saying"
+Answer is: said
+saying:0.835
+took:0.826
+anarchism:0.729
+anarcho:0.724
+bakunin:0.722
+===============================================
+
+
+===============================================
+The most similar words to "took-taking+seeing"
+Answer is: saw
+seeing:0.818
+took:0.818
+anarcho:0.723
+autism:0.705
+dhabi:0.703
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+writing"
+Answer is: wrote
+thought:0.878
+writing:0.854
+anarchist:0.788
+anarchists:0.786
+anarchism:0.775
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+describing"
+Answer is: described
+thought:0.851
+describing:0.815
+although:0.732
+give:0.732
+does:0.732
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+going"
+Answer is: went
+thought:0.873
+going:0.849
+anarchists:0.762
+said:0.762
+disorder:0.761
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+increasing"
+Answer is: increased
+thought:0.865
+increasing:0.834
+although:0.752
+anarchists:0.751
+disorder:0.742
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+moving"
+Answer is: moved
+thought:0.858
+moving:0.823
+know:0.740
+anarcho:0.740
+communication:0.739
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+playing"
+Answer is: played
+thought:0.848
+playing:0.818
+said:0.739
+anarcho:0.735
+individuals:0.730
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+reading"
+Answer is: read
+thought:0.865
+reading:0.817
+appeal:0.772
+functioning:0.754
+anarchists:0.753
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+running"
+Answer is: ran
+thought:0.866
+running:0.827
+disorder:0.760
+anarcho:0.751
+capitalism:0.749
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+saying"
+Answer is: said
+thought:0.878
+saying:0.835
+although:0.766
+said:0.766
+anarchists:0.759
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+seeing"
+Answer is: saw
+thought:0.861
+seeing:0.827
+said:0.735
+important:0.733
+anarchist:0.733
+===============================================
+
+
+===============================================
+The most similar words to "thought-thinking+taking"
+Answer is: took
+thought:0.864
+taking:0.852
+anarchists:0.761
+anarchist:0.759
+disorder:0.750
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+describing"
+Answer is: described
+describing:0.820
+wrote:0.798
+save:0.689
+heroes:0.682
+highly:0.682
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+going"
+Answer is: went
+wrote:0.842
+going:0.841
+save:0.740
+proudhon:0.735
+heroes:0.727
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+increasing"
+Answer is: increased
+increasing:0.827
+wrote:0.818
+save:0.719
+albedo:0.714
+valuable:0.713
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+moving"
+Answer is: moved
+moving:0.821
+wrote:0.793
+save:0.725
+parents:0.707
+disorders:0.705
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+playing"
+Answer is: played
+playing:0.811
+wrote:0.795
+violence:0.696
+diagnostic:0.689
+anarcho:0.688
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+reading"
+Answer is: read
+reading:0.825
+wrote:0.811
+save:0.716
+afterwards:0.716
+opposition:0.711
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+running"
+Answer is: ran
+running:0.827
+wrote:0.818
+emancipation:0.724
+dhabi:0.717
+diagnosis:0.713
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+saying"
+Answer is: said
+wrote:0.833
+saying:0.832
+save:0.728
+heroes:0.717
+against:0.714
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+seeing"
+Answer is: saw
+wrote:0.832
+seeing:0.822
+save:0.706
+albedo:0.704
+syndicalism:0.700
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+taking"
+Answer is: took
+taking:0.841
+wrote:0.829
+syndicalism:0.737
+disorders:0.735
+violence:0.732
+===============================================
+
+
+===============================================
+The most similar words to "wrote-writing+thinking"
+Answer is: thought
+thinking:0.829
+wrote:0.822
+dhabi:0.709
+developmental:0.709
+violence:0.703
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+child"
+Answer is: children
+child:0.882
+buildings:0.820
+autism:0.791
+anarchist:0.787
+disorders:0.786
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+computer"
+Answer is: computers
+buildings:0.841
+computer:0.825
+hydrochloric:0.716
+developmental:0.712
+thousands:0.708
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+dog"
+Answer is: dogs
+dog:0.833
+buildings:0.830
+towns:0.700
+moderate:0.700
+formation:0.699
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+dollar"
+Answer is: dollars
+buildings:0.794
+dollar:0.791
+equipment:0.646
+produces:0.645
+supposed:0.640
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+hand"
+Answer is: hands
+hand:0.840
+buildings:0.810
+environmental:0.708
+disorders:0.699
+developmental:0.688
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+man"
+Answer is: men
+man:0.851
+buildings:0.795
+autism:0.750
+anarcho:0.750
+autistic:0.748
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+pig"
+Answer is: pigs
+buildings:0.814
+pig:0.803
+program:0.693
+constitutional:0.690
+omotic:0.679
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+road"
+Answer is: roads
+buildings:0.832
+road:0.815
+documentary:0.707
+environmental:0.702
+operating:0.699
+===============================================
+
+
+===============================================
+The most similar words to "buildings-building+woman"
+Answer is: women
+buildings:0.830
+woman:0.825
+feminist:0.701
+success:0.699
+direction:0.699
+===============================================
+
+
+===============================================
+The most similar words to "children-child+computer"
+Answer is: computers
+computer:0.807
+children:0.757
+pervasive:0.694
+anarcho:0.684
+definitions:0.680
+===============================================
+
+
+===============================================
+The most similar words to "children-child+dog"
+Answer is: dogs
+dog:0.810
+children:0.710
+significance:0.685
+egyptian:0.680
+emirates:0.677
+===============================================
+
+
+===============================================
+The most similar words to "children-child+dollar"
+Answer is: dollars
+dollar:0.757
+children:0.676
+progress:0.622
+comparative:0.621
+emirates:0.616
+===============================================
+
+
+===============================================
+The most similar words to "children-child+hand"
+Answer is: hands
+hand:0.808
+children:0.780
+vietnam:0.702
+anarcho:0.693
+objectivism:0.690
+===============================================
+
+
+===============================================
+The most similar words to "children-child+man"
+Answer is: men
+children:0.848
+man:0.837
+anarcho:0.754
+anarchism:0.734
+aristotle:0.733
+===============================================
+
+
+===============================================
+The most similar words to "children-child+pig"
+Answer is: pigs
+pig:0.782
+children:0.684
+lenin:0.643
+definitions:0.643
+constitutional:0.639
+===============================================
+
+
+===============================================
+The most similar words to "children-child+road"
+Answer is: roads
+road:0.799
+children:0.715
+pervasive:0.668
+strongly:0.667
+additional:0.664
+===============================================
+
+
+===============================================
+The most similar words to "children-child+woman"
+Answer is: women
+woman:0.811
+children:0.759
+emirates:0.683
+anarcho:0.675
+media:0.662
+===============================================
+
+
+===============================================
+The most similar words to "children-child+building"
+Answer is: buildings
+building:0.786
+children:0.732
+christianity:0.665
+emirates:0.662
+pseudoarchaeology:0.662
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+dog"
+Answer is: dogs
+dog:0.836
+computers:0.807
+lands:0.692
+indictment:0.687
+really:0.686
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+dollar"
+Answer is: dollars
+dollar:0.788
+computers:0.779
+describing:0.640
+representing:0.636
+lands:0.631
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+hand"
+Answer is: hands
+hand:0.835
+computers:0.819
+environmental:0.703
+describing:0.697
+mobile:0.693
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+man"
+Answer is: men
+man:0.854
+computers:0.806
+anarchism:0.752
+autism:0.744
+child:0.741
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+pig"
+Answer is: pigs
+pig:0.808
+computers:0.802
+escape:0.683
+lands:0.664
+mouch:0.661
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+road"
+Answer is: roads
+road:0.826
+computers:0.811
+funds:0.678
+escape:0.675
+exactly:0.673
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+woman"
+Answer is: women
+woman:0.823
+computers:0.802
+booth:0.705
+feminist:0.703
+mouch:0.700
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+building"
+Answer is: buildings
+building:0.811
+computers:0.808
+denotes:0.687
+pseudoarchaeology:0.684
+hope:0.683
+===============================================
+
+
+===============================================
+The most similar words to "computers-computer+child"
+Answer is: children
+child:0.885
+computers:0.811
+autism:0.786
+anarchism:0.780
+anarchists:0.778
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+dollar"
+Answer is: dollars
+dogs:0.782
+dollar:0.767
+alleged:0.610
+criticisms:0.608
+australians:0.604
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+hand"
+Answer is: hands
+hand:0.816
+dogs:0.809
+branches:0.684
+intellectual:0.673
+lowercase:0.670
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+man"
+Answer is: men
+man:0.833
+dogs:0.760
+anarchism:0.750
+anarchists:0.747
+anarcho:0.743
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+pig"
+Answer is: pigs
+dogs:0.785
+pig:0.781
+natives:0.650
+freeing:0.645
+violent:0.639
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+road"
+Answer is: roads
+dogs:0.805
+road:0.799
+pervasive:0.664
+fountainhead:0.656
+anarchy:0.655
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+woman"
+Answer is: women
+dogs:0.810
+woman:0.804
+success:0.678
+surface:0.676
+destroy:0.673
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+building"
+Answer is: buildings
+dogs:0.794
+building:0.789
+philadelphia:0.659
+join:0.656
+proclamation:0.656
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+child"
+Answer is: children
+child:0.870
+anarchists:0.793
+autism:0.780
+anarchist:0.774
+anarchism:0.773
+===============================================
+
+
+===============================================
+The most similar words to "dogs-dog+computer"
+Answer is: computers
+computer:0.811
+dogs:0.810
+pervasive:0.682
+methane:0.668
+join:0.667
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+hand"
+Answer is: hands
+hand:0.860
+dollars:0.838
+church:0.740
+confederate:0.739
+dr:0.738
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+man"
+Answer is: men
+man:0.871
+dollars:0.825
+anarchism:0.794
+alabama:0.791
+anarcho:0.786
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+pig"
+Answer is: pigs
+pig:0.838
+dollars:0.833
+brakeman:0.713
+agency:0.713
+proved:0.711
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+road"
+Answer is: roads
+road:0.852
+dollars:0.846
+additional:0.724
+anarchy:0.721
+humanities:0.720
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+woman"
+Answer is: women
+woman:0.849
+dollars:0.831
+functioning:0.748
+asperger:0.744
+cnt:0.737
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+building"
+Answer is: buildings
+dollars:0.849
+building:0.844
+choice:0.723
+prominent:0.723
+alabama:0.721
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+child"
+Answer is: children
+child:0.899
+dollars:0.833
+anarchists:0.821
+alabama:0.812
+anarchist:0.812
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+computer"
+Answer is: computers
+dollars:0.863
+computer:0.850
+account:0.758
+pervasive:0.758
+existence:0.751
+===============================================
+
+
+===============================================
+The most similar words to "dollars-dollar+dog"
+Answer is: dogs
+dollars:0.855
+dog:0.847
+kenya:0.753
+brakeman:0.750
+symptoms:0.750
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+man"
+Answer is: men
+man:0.866
+hands:0.831
+anarcho:0.760
+achilles:0.760
+spectrum:0.760
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+pig"
+Answer is: pigs
+pig:0.824
+hands:0.791
+above:0.697
+disputed:0.696
+extreme:0.692
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+road"
+Answer is: roads
+road:0.837
+hands:0.817
+pervasive:0.710
+feminism:0.705
+anarchy:0.705
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+woman"
+Answer is: women
+woman:0.844
+hands:0.833
+destroy:0.719
+proudhon:0.714
+asperger:0.710
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+building"
+Answer is: buildings
+building:0.835
+hands:0.798
+follow:0.687
+rett:0.686
+above:0.686
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+child"
+Answer is: children
+child:0.890
+hands:0.854
+anarchists:0.817
+autism:0.806
+albedo:0.804
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+computer"
+Answer is: computers
+computer:0.841
+hands:0.838
+pervasive:0.741
+account:0.730
+slovenian:0.727
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+dog"
+Answer is: dogs
+dog:0.842
+hands:0.822
+selfish:0.725
+currency:0.723
+am:0.721
+===============================================
+
+
+===============================================
+The most similar words to "hands-hand+dollar"
+Answer is: dollars
+dollar:0.811
+hands:0.772
+influences:0.675
+tasmania:0.661
+extreme:0.658
+===============================================
+
+
+===============================================
+The most similar words to "men-man+pig"
+Answer is: pigs
+pig:0.817
+men:0.731
+provides:0.682
+disciplines:0.681
+columbia:0.681
+===============================================
+
+
+===============================================
+The most similar words to "men-man+road"
+Answer is: roads
+road:0.838
+men:0.754
+anarchy:0.683
+audience:0.681
+documentary:0.679
+===============================================
+
+
+===============================================
+The most similar words to "men-man+woman"
+Answer is: women
+woman:0.826
+men:0.799
+commonwealth:0.721
+guide:0.719
+proclamation:0.716
+===============================================
+
+
+===============================================
+The most similar words to "men-man+building"
+Answer is: buildings
+building:0.820
+men:0.762
+proclamation:0.695
+applications:0.693
+provides:0.693
+===============================================
+
+
+===============================================
+The most similar words to "men-man+child"
+Answer is: children
+men:0.886
+child:0.882
+anarchists:0.807
+anarchist:0.797
+autism:0.796
+===============================================
+
+
+===============================================
+The most similar words to "men-man+computer"
+Answer is: computers
+computer:0.826
+men:0.798
+pervasive:0.737
+chadic:0.730
+image:0.730
+===============================================
+
+
+===============================================
+The most similar words to "men-man+dog"
+Answer is: dogs
+dog:0.836
+men:0.763
+quickly:0.717
+selfish:0.716
+columbia:0.712
+===============================================
+
+
+===============================================
+The most similar words to "men-man+dollar"
+Answer is: dollars
+dollar:0.800
+men:0.732
+aquatic:0.670
+plays:0.663
+disciplines:0.657
+===============================================
+
+
+===============================================
+The most similar words to "men-man+hand"
+Answer is: hands
+hand:0.840
+men:0.802
+our:0.724
+autistics:0.715
+environmental:0.712
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+road"
+Answer is: roads
+road:0.846
+pigs:0.846
+pervasive:0.725
+anarchy:0.722
+response:0.715
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+woman"
+Answer is: women
+woman:0.851
+pigs:0.841
+local:0.730
+emirates:0.724
+principles:0.723
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+building"
+Answer is: buildings
+pigs:0.851
+building:0.833
+represented:0.725
+local:0.720
+forcing:0.720
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+child"
+Answer is: children
+child:0.897
+anarchist:0.827
+pigs:0.823
+anarchists:0.815
+autism:0.809
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+computer"
+Answer is: computers
+pigs:0.863
+computer:0.843
+pervasive:0.766
+metaphysics:0.744
+obligation:0.743
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+dog"
+Answer is: dogs
+pigs:0.853
+dog:0.849
+greeks:0.733
+anarchy:0.732
+england:0.731
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+dollar"
+Answer is: dollars
+pigs:0.812
+dollar:0.810
+win:0.686
+local:0.685
+pervasive:0.684
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+hand"
+Answer is: hands
+hand:0.853
+pigs:0.837
+physical:0.743
+disorders:0.742
+local:0.741
+===============================================
+
+
+===============================================
+The most similar words to "pigs-pig+man"
+Answer is: men
+man:0.872
+pigs:0.815
+anarchist:0.792
+anarchism:0.783
+achilles:0.779
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+woman"
+Answer is: women
+woman:0.824
+roads:0.784
+emirates:0.691
+ethnic:0.676
+cnt:0.673
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+building"
+Answer is: buildings
+building:0.806
+roads:0.805
+equipped:0.666
+kentucky:0.663
+patroclus:0.662
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+child"
+Answer is: children
+child:0.881
+anarchists:0.787
+anarchist:0.785
+roads:0.772
+autism:0.772
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+computer"
+Answer is: computers
+computer:0.822
+roads:0.807
+specifically:0.688
+allowed:0.686
+cnt:0.684
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+dog"
+Answer is: dogs
+dog:0.826
+roads:0.805
+bases:0.686
+equipped:0.683
+accessible:0.683
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+dollar"
+Answer is: dollars
+dollar:0.785
+roads:0.745
+plays:0.629
+bases:0.610
+respectively:0.608
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+hand"
+Answer is: hands
+hand:0.819
+roads:0.774
+cnt:0.708
+patroclus:0.704
+emirates:0.703
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+man"
+Answer is: men
+man:0.852
+roads:0.745
+anarchist:0.732
+anarcho:0.729
+child:0.724
+===============================================
+
+
+===============================================
+The most similar words to "roads-road+pig"
+Answer is: pigs
+pig:0.794
+roads:0.755
+kill:0.668
+longest:0.661
+describe:0.656
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+building"
+Answer is: buildings
+women:0.828
+building:0.815
+visual:0.690
+object:0.687
+goldman:0.685
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+child"
+Answer is: children
+child:0.879
+women:0.832
+anarchists:0.796
+anarchist:0.794
+disorders:0.794
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+computer"
+Answer is: computers
+women:0.842
+computer:0.834
+pervasive:0.709
+anarcha:0.698
+thousands:0.698
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+dog"
+Answer is: dogs
+women:0.831
+dog:0.826
+helping:0.729
+trees:0.714
+hermetical:0.714
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+dollar"
+Answer is: dollars
+dollar:0.802
+women:0.780
+helping:0.656
+projection:0.640
+picture:0.636
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+hand"
+Answer is: hands
+women:0.832
+hand:0.831
+disorders:0.719
+anarcha:0.714
+trees:0.714
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+man"
+Answer is: men
+man:0.847
+women:0.829
+behavior:0.755
+anarchist:0.755
+anarcho:0.754
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+pig"
+Answer is: pigs
+pig:0.808
+women:0.793
+picture:0.689
+cells:0.681
+team:0.680
+===============================================
+
+
+===============================================
+The most similar words to "women-woman+road"
+Answer is: roads
+road:0.833
+women:0.822
+helping:0.682
+components:0.680
+split:0.679
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+estimate"
+Answer is: estimates
+estimate:0.831
+describes:0.814
+brave:0.686
+sebastian:0.685
+hold:0.684
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+find"
+Answer is: finds
+find:0.844
+describes:0.833
+broadcast:0.710
+henry:0.701
+reconstruction:0.700
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+go"
+Answer is: goes
+go:0.840
+describes:0.838
+strike:0.729
+vietnam:0.725
+sebastian:0.722
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+increase"
+Answer is: increases
+increase:0.864
+describes:0.815
+abraham:0.781
+alabama:0.773
+film:0.769
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+play"
+Answer is: plays
+play:0.853
+describes:0.841
+anarcho:0.763
+film:0.758
+abraham:0.758
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+provide"
+Answer is: provides
+provide:0.843
+describes:0.821
+meet:0.705
+vietnam:0.704
+henry:0.702
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+say"
+Answer is: says
+say:0.844
+describes:0.801
+anarcho:0.724
+disorders:0.721
+anarchy:0.716
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+see"
+Answer is: sees
+see:0.849
+describes:0.767
+anarchists:0.710
+robert:0.710
+george:0.706
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+speak"
+Answer is: speaks
+speak:0.851
+describes:0.819
+nathaniel:0.697
+sebastian:0.695
+st:0.694
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+work"
+Answer is: works
+work:0.862
+describes:0.780
+disorders:0.751
+still:0.742
+authoritarian:0.738
+===============================================
+
+
+===============================================
+The most similar words to "describes-describe+write"
+Answer is: writes
+write:0.834
+describes:0.822
+office:0.708
+conservation:0.702
+technologies:0.701
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+find"
+Answer is: finds
+estimates:0.818
+find:0.813
+plants:0.692
+relatives:0.692
+moderate:0.690
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+go"
+Answer is: goes
+go:0.817
+estimates:0.815
+soul:0.704
+rational:0.702
+indeed:0.697
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+increase"
+Answer is: increases
+increase:0.844
+estimates:0.840
+anarcho:0.745
+home:0.734
+violence:0.731
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+play"
+Answer is: plays
+estimates:0.842
+play:0.832
+anarcho:0.743
+developmental:0.735
+rational:0.728
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+provide"
+Answer is: provides
+estimates:0.831
+provide:0.803
+effective:0.702
+developmental:0.700
+objects:0.699
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+say"
+Answer is: says
+say:0.824
+estimates:0.801
+anarcho:0.700
+developmental:0.686
+serve:0.682
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+see"
+Answer is: sees
+see:0.831
+estimates:0.776
+anarchists:0.671
+anarcho:0.671
+violence:0.667
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+speak"
+Answer is: speaks
+estimates:0.833
+speak:0.823
+developmental:0.683
+cure:0.680
+consider:0.677
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+work"
+Answer is: works
+work:0.845
+estimates:0.796
+developmental:0.714
+anarcho:0.707
+potential:0.705
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+write"
+Answer is: writes
+estimates:0.808
+write:0.806
+objects:0.681
+aeronautical:0.681
+developmental:0.680
+===============================================
+
+
+===============================================
+The most similar words to "estimates-estimate+describe"
+Answer is: describes
+estimates:0.815
+describe:0.800
+molecular:0.688
+moderate:0.685
+scheduled:0.681
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+go"
+Answer is: goes
+go:0.838
+finds:0.825
+pervasive:0.746
+proudhon:0.731
+talk:0.731
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+increase"
+Answer is: increases
+increase:0.869
+finds:0.817
+alabama:0.762
+proudhon:0.756
+pervasive:0.754
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+play"
+Answer is: plays
+play:0.854
+finds:0.824
+anarcho:0.763
+sensory:0.760
+pervasive:0.760
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+provide"
+Answer is: provides
+provide:0.842
+finds:0.807
+tv:0.718
+pervasive:0.707
+sees:0.707
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+say"
+Answer is: says
+say:0.848
+finds:0.826
+anarcho:0.720
+anarchy:0.719
+behavior:0.716
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+see"
+Answer is: sees
+see:0.860
+finds:0.748
+robert:0.692
+proudhon:0.689
+archaeology:0.686
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+speak"
+Answer is: speaks
+speak:0.843
+finds:0.808
+bakunin:0.719
+pervasive:0.719
+slam:0.718
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+work"
+Answer is: works
+work:0.868
+finds:0.784
+proudhon:0.740
+anti:0.733
+authoritarian:0.726
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+write"
+Answer is: writes
+write:0.831
+finds:0.823
+pervasive:0.724
+motivated:0.721
+rett:0.714
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+describe"
+Answer is: describes
+describe:0.824
+finds:0.822
+tv:0.710
+address:0.709
+pervasive:0.702
+===============================================
+
+
+===============================================
+The most similar words to "finds-find+estimate"
+Answer is: estimates
+estimate:0.824
+finds:0.809
+pervasive:0.718
+grant:0.715
+tv:0.702
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+increase"
+Answer is: increases
+increase:0.861
+goes:0.820
+anarcho:0.747
+alabama:0.746
+disorder:0.740
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+play"
+Answer is: plays
+play:0.850
+goes:0.833
+anarcho:0.744
+syndrome:0.738
+personal:0.728
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+provide"
+Answer is: provides
+provide:0.828
+goes:0.826
+financial:0.693
+discussed:0.692
+eat:0.691
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+say"
+Answer is: says
+say:0.834
+goes:0.806
+anarcho:0.723
+syndrome:0.712
+feminist:0.709
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+see"
+Answer is: sees
+see:0.851
+goes:0.756
+syndrome:0.678
+anarchists:0.672
+george:0.672
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+speak"
+Answer is: speaks
+speak:0.837
+goes:0.800
+syndrome:0.698
+feminist:0.696
+diagnostic:0.695
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+work"
+Answer is: works
+work:0.864
+goes:0.797
+class:0.704
+autism:0.703
+anarcho:0.703
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+write"
+Answer is: writes
+write:0.826
+goes:0.812
+travel:0.688
+morality:0.684
+pro:0.681
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+describe"
+Answer is: describes
+describe:0.819
+goes:0.818
+communicate:0.679
+farming:0.675
+pro:0.674
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+estimate"
+Answer is: estimates
+estimate:0.826
+goes:0.793
+job:0.661
+diagnostic:0.658
+arabs:0.655
+===============================================
+
+
+===============================================
+The most similar words to "goes-go+find"
+Answer is: finds
+find:0.830
+goes:0.806
+communicate:0.709
+plants:0.701
+personal:0.694
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+play"
+Answer is: plays
+play:0.814
+increases:0.799
+sensory:0.715
+carried:0.711
+mutual:0.711
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+provide"
+Answer is: provides
+provide:0.797
+increases:0.752
+hermetical:0.688
+attested:0.665
+domain:0.663
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+say"
+Answer is: says
+say:0.805
+increases:0.759
+carried:0.659
+anarchy:0.656
+semitic:0.655
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+see"
+Answer is: sees
+see:0.817
+increases:0.730
+howard:0.647
+andorra:0.637
+machinery:0.635
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+speak"
+Answer is: speaks
+speak:0.792
+increases:0.783
+realm:0.700
+model:0.698
+lewis:0.695
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+work"
+Answer is: works
+work:0.828
+increases:0.758
+processes:0.696
+metaphysics:0.687
+male:0.686
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+write"
+Answer is: writes
+write:0.798
+increases:0.738
+technologies:0.661
+realm:0.656
+hermetical:0.656
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+describe"
+Answer is: describes
+describe:0.774
+increases:0.744
+attested:0.684
+boxer:0.678
+hermetical:0.663
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+estimate"
+Answer is: estimates
+estimate:0.773
+increases:0.758
+hermetical:0.675
+location:0.661
+selection:0.657
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+find"
+Answer is: finds
+find:0.801
+increases:0.744
+boxer:0.676
+hermetical:0.671
+chadic:0.659
+===============================================
+
+
+===============================================
+The most similar words to "increases-increase+go"
+Answer is: goes
+go:0.798
+increases:0.772
+hermetical:0.707
+sort:0.700
+realm:0.691
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+provide"
+Answer is: provides
+plays:0.788
+provide:0.770
+hermetical:0.661
+criminal:0.657
+globe:0.650
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+say"
+Answer is: says
+plays:0.784
+say:0.778
+finds:0.656
+le:0.649
+released:0.645
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+see"
+Answer is: sees
+see:0.795
+plays:0.762
+dollar:0.620
+unorganized:0.619
+produced:0.616
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+speak"
+Answer is: speaks
+speak:0.782
+plays:0.775
+berbers:0.649
+zone:0.644
+receiving:0.644
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+work"
+Answer is: works
+work:0.804
+plays:0.775
+virtuous:0.680
+academic:0.678
+obligation:0.674
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+write"
+Answer is: writes
+plays:0.778
+write:0.774
+technologies:0.648
+protists:0.646
+neighbouring:0.635
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+describe"
+Answer is: describes
+plays:0.779
+describe:0.745
+virtuous:0.648
+usa:0.648
+unorganized:0.648
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+estimate"
+Answer is: estimates
+plays:0.770
+estimate:0.748
+lies:0.637
+season:0.636
+hermetical:0.634
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+find"
+Answer is: finds
+find:0.784
+plays:0.780
+berbers:0.636
+medium:0.632
+defendant:0.631
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+go"
+Answer is: goes
+plays:0.791
+go:0.773
+hermetical:0.678
+globe:0.672
+begun:0.670
+===============================================
+
+
+===============================================
+The most similar words to "plays-play+increase"
+Answer is: increases
+increase:0.807
+plays:0.802
+criminal:0.709
+patrick:0.704
+treaty:0.702
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+say"
+Answer is: says
+say:0.846
+provides:0.804
+anarcho:0.716
+anarchy:0.710
+disorder:0.707
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+see"
+Answer is: sees
+see:0.849
+provides:0.779
+robert:0.704
+ethics:0.701
+anarcho:0.693
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+speak"
+Answer is: speaks
+speak:0.842
+provides:0.815
+built:0.710
+bakunin:0.706
+exactly:0.703
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+work"
+Answer is: works
+work:0.853
+provides:0.796
+anarcho:0.759
+disorder:0.757
+disorders:0.751
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+write"
+Answer is: writes
+write:0.824
+provides:0.823
+rett:0.726
+built:0.712
+stories:0.709
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+describe"
+Answer is: describes
+describe:0.826
+provides:0.809
+denotes:0.703
+initial:0.688
+molecular:0.685
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+estimate"
+Answer is: estimates
+provides:0.821
+estimate:0.817
+exactly:0.696
+earlier:0.696
+pervasive:0.695
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+find"
+Answer is: finds
+find:0.842
+provides:0.804
+built:0.696
+denotes:0.694
+claimed:0.687
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+go"
+Answer is: goes
+provides:0.836
+go:0.833
+alliance:0.739
+speeches:0.733
+disorder:0.726
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+increase"
+Answer is: increases
+increase:0.868
+provides:0.821
+anarcho:0.746
+disorder:0.745
+cnt:0.740
+===============================================
+
+
+===============================================
+The most similar words to "provides-provide+play"
+Answer is: plays
+play:0.851
+provides:0.838
+sensory:0.762
+anarcho:0.761
+cnt:0.747
+===============================================
+
+
+===============================================
+The most similar words to "says-say+see"
+Answer is: sees
+see:0.851
+says:0.802
+robert:0.724
+capitalism:0.713
+anarchists:0.709
+===============================================
+
+
+===============================================
+The most similar words to "says-say+speak"
+Answer is: speaks
+speak:0.844
+says:0.834
+courier:0.732
+basic:0.731
+feminism:0.731
+===============================================
+
+
+===============================================
+The most similar words to "says-say+work"
+Answer is: works
+work:0.862
+says:0.844
+terms:0.748
+proudhon:0.742
+rebellion:0.742
+===============================================
+
+
+===============================================
+The most similar words to "says-say+write"
+Answer is: writes
+says:0.835
+write:0.819
+morocco:0.748
+prominent:0.745
+highly:0.745
+===============================================
+
+
+===============================================
+The most similar words to "says-say+describe"
+Answer is: describes
+describe:0.829
+says:0.825
+inhabitants:0.727
+start:0.723
+genetics:0.722
+===============================================
+
+
+===============================================
+The most similar words to "says-say+estimate"
+Answer is: estimates
+estimate:0.832
+says:0.817
+director:0.716
+feminism:0.706
+theater:0.706
+===============================================
+
+
+===============================================
+The most similar words to "says-say+find"
+Answer is: finds
+says:0.837
+find:0.833
+colony:0.738
+feminism:0.737
+basic:0.733
+===============================================
+
+
+===============================================
+The most similar words to "says-say+go"
+Answer is: goes
+says:0.849
+go:0.839
+terms:0.745
+bringing:0.742
+theater:0.742
+===============================================
+
+
+===============================================
+The most similar words to "says-say+increase"
+Answer is: increases
+increase:0.875
+says:0.857
+terms:0.753
+night:0.748
+rearden:0.747
+===============================================
+
+
+===============================================
+The most similar words to "says-say+play"
+Answer is: plays
+says:0.863
+play:0.856
+sensory:0.770
+short:0.759
+anarcho:0.758
+===============================================
+
+
+===============================================
+The most similar words to "says-say+provide"
+Answer is: provides
+provide:0.837
+says:0.826
+morocco:0.730
+eat:0.728
+border:0.727
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+speak"
+Answer is: speaks
+speak:0.771
+sees:0.762
+directors:0.679
+examined:0.677
+opera:0.671
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+work"
+Answer is: works
+work:0.804
+sees:0.765
+disorders:0.677
+authoritarian:0.673
+consider:0.671
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+write"
+Answer is: writes
+write:0.773
+sees:0.728
+tar:0.661
+decimal:0.637
+arrangement:0.637
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+describe"
+Answer is: describes
+describe:0.747
+sees:0.744
+farming:0.657
+founding:0.651
+address:0.651
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+estimate"
+Answer is: estimates
+estimate:0.750
+sees:0.738
+offer:0.647
+directors:0.644
+tar:0.642
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+find"
+Answer is: finds
+find:0.779
+sees:0.719
+formation:0.648
+pago:0.648
+spirits:0.647
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+go"
+Answer is: goes
+go:0.778
+sees:0.758
+presence:0.672
+commercial:0.663
+carolina:0.663
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+increase"
+Answer is: increases
+increase:0.805
+sees:0.782
+treaty:0.697
+authoritarian:0.692
+emerged:0.691
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+play"
+Answer is: plays
+sees:0.794
+play:0.784
+offer:0.704
+authoritarian:0.703
+sensory:0.703
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+provide"
+Answer is: provides
+provide:0.769
+sees:0.768
+tar:0.662
+lyre:0.654
+opportunity:0.653
+===============================================
+
+
+===============================================
+The most similar words to "sees-see+say"
+Answer is: says
+say:0.772
+sees:0.745
+finds:0.670
+pago:0.661
+tar:0.659
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+work"
+Answer is: works
+work:0.829
+speaks:0.781
+syndicalism:0.721
+students:0.714
+athens:0.713
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+write"
+Answer is: writes
+speaks:0.814
+write:0.799
+causation:0.691
+technologies:0.682
+sun:0.681
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+describe"
+Answer is: describes
+speaks:0.804
+describe:0.795
+farming:0.679
+athens:0.678
+separated:0.674
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+estimate"
+Answer is: estimates
+speaks:0.814
+estimate:0.793
+pervasive:0.666
+unicode:0.665
+season:0.664
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+find"
+Answer is: finds
+find:0.809
+speaks:0.805
+dog:0.686
+fragments:0.685
+biology:0.680
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+go"
+Answer is: goes
+speaks:0.815
+go:0.809
+train:0.714
+dominant:0.706
+dog:0.703
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+increase"
+Answer is: increases
+speaks:0.839
+increase:0.829
+alabama:0.757
+pervasive:0.752
+athens:0.742
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+play"
+Answer is: plays
+play:0.825
+speaks:0.823
+pervasive:0.720
+algeria:0.720
+sensory:0.715
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+provide"
+Answer is: provides
+speaks:0.810
+provide:0.801
+grain:0.695
+online:0.694
+tat:0.693
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+say"
+Answer is: says
+say:0.809
+speaks:0.802
+pervasive:0.688
+brother:0.687
+anarcho:0.685
+===============================================
+
+
+===============================================
+The most similar words to "speaks-speak+see"
+Answer is: sees
+see:0.816
+speaks:0.775
+athens:0.684
+algeria:0.673
+online:0.672
+===============================================
+
+
+===============================================
+The most similar words to "works-work+write"
+Answer is: writes
+write:0.799
+works:0.775
+difficulties:0.695
+agent:0.695
+attend:0.693
+===============================================
+
+
+===============================================
+The most similar words to "works-work+describe"
+Answer is: describes
+describe:0.792
+works:0.785
+agent:0.688
+nicomachean:0.684
+newman:0.683
+===============================================
+
+
+===============================================
+The most similar words to "works-work+estimate"
+Answer is: estimates
+estimate:0.796
+works:0.786
+december:0.689
+earlier:0.683
+immigration:0.678
+===============================================
+
+
+===============================================
+The most similar words to "works-work+find"
+Answer is: finds
+find:0.809
+works:0.779
+newman:0.699
+plato:0.696
+appearance:0.694
+===============================================
+
+
+===============================================
+The most similar words to "works-work+go"
+Answer is: goes
+go:0.808
+works:0.806
+immigration:0.723
+autistics:0.711
+candidate:0.710
+===============================================
+
+
+===============================================
+The most similar words to "works-work+increase"
+Answer is: increases
+increase:0.844
+works:0.836
+abraham:0.753
+december:0.743
+alabama:0.743
+===============================================
+
+
+===============================================
+The most similar words to "works-work+play"
+Answer is: plays
+works:0.844
+play:0.827
+abraham:0.741
+anarcho:0.738
+december:0.735
+===============================================
+
+
+===============================================
+The most similar words to "works-work+provide"
+Answer is: provides
+works:0.811
+provide:0.796
+immigration:0.722
+autistics:0.711
+dsm:0.708
+===============================================
+
+
+===============================================
+The most similar words to "works-work+say"
+Answer is: says
+works:0.817
+say:0.807
+anarcho:0.722
+plato:0.718
+movements:0.712
+===============================================
+
+
+===============================================
+The most similar words to "works-work+see"
+Answer is: sees
+see:0.833
+works:0.796
+anarchists:0.675
+de:0.674
+ethics:0.672
+===============================================
+
+
+===============================================
+The most similar words to "works-work+speak"
+Answer is: speaks
+speak:0.817
+works:0.803
+bakunin:0.692
+died:0.692
+september:0.688
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+describe"
+Answer is: describes
+writes:0.800
+describe:0.796
+advice:0.664
+start:0.663
+molecular:0.661
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+estimate"
+Answer is: estimates
+estimate:0.801
+writes:0.786
+just:0.649
+likely:0.646
+patroclus:0.645
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+find"
+Answer is: finds
+find:0.808
+writes:0.800
+alchemical:0.691
+southern:0.685
+thought:0.684
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+go"
+Answer is: goes
+writes:0.818
+go:0.817
+mean:0.696
+soul:0.690
+disorder:0.689
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+increase"
+Answer is: increases
+increase:0.850
+writes:0.792
+effect:0.734
+alabama:0.730
+autism:0.729
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+play"
+Answer is: plays
+play:0.836
+writes:0.815
+just:0.730
+anarcho:0.729
+capitalism:0.724
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+provide"
+Answer is: provides
+writes:0.817
+provide:0.810
+mortal:0.682
+selfish:0.678
+anarcha:0.672
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+say"
+Answer is: says
+say:0.820
+writes:0.808
+anarcho:0.704
+thought:0.698
+achilles:0.696
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+see"
+Answer is: sees
+see:0.843
+writes:0.743
+just:0.657
+anarchists:0.653
+capitalism:0.650
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+speak"
+Answer is: speaks
+speak:0.816
+writes:0.799
+less:0.689
+lower:0.688
+without:0.688
+===============================================
+
+
+===============================================
+The most similar words to "writes-write+work"
+Answer is: works
+work:0.845
+writes:0.755
+just:0.741
+autism:0.724
+achilles:0.722
+===============================================
+
